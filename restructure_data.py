@@ -2,10 +2,15 @@ import pandas as pd
 import shutil
 import os
 
-test_images = pd.read_csv("./data/product_data.csv")["des_filename"]
-count = 0
-for filename in test_images:
-    shutil.copyfile("./data/images/images/" + filename, "./data/images/images_fr/" + filename)
-    count += 1
-    if(count % 200 == 0):
-        print(count)
+from PIL import Image
+
+dataset_dir = "./data/images/images_fr"
+for root, dirs, files in os.walk(dataset_dir):
+    for file in files:
+        if file.lower().endswith(('png', 'jpg', 'jpeg')):
+            try:
+                img_path = os.path.join(root, file)
+                img = Image.open(img_path)
+                img.verify()  # Verify the image is not corrupt
+            except (IOError, SyntaxError) as e:
+                print(f"Corrupt image found: {img_path}")

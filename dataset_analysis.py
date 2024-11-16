@@ -7,6 +7,8 @@ possible = attribute_data.groupby("attribute_name")["des_value"].unique()
 
 print(possible.reset_index())
 
+print("count: " + str(len(attribute_data["attribute_name"].unique())))
+
 # Relations between product category and families/type
 
 product_data = pd.read_csv('./data/product_data.csv')

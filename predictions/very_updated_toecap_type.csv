@@ -1,10 +1,10 @@
 test_id,des_value
-88_49720263_toecap_type,INVALID
+88_49720263_toecap_type,Redonda
 88_49723330_toecap_type,INVALID
 88_49714701_toecap_type,INVALID
 88_49708014_toecap_type,INVALID
 88_49713779_toecap_type,INVALID
-88_49705287_toecap_type,Cuadrada
+88_49705287_toecap_type,Redonda
 88_49720333_toecap_type,INVALID
 88_49713338_toecap_type,INVALID
 88_49713027_toecap_type,INVALID
@@ -118,7 +118,7 @@ test_id,des_value
 88_49717894_toecap_type,INVALID
 88_49714370_toecap_type,INVALID
 88_49727077_toecap_type,INVALID
-88_49731042_toecap_type,Abierta
+88_49731042_toecap_type,Redonda
 88_49712400_toecap_type,Redonda
 88_49718178_toecap_type,INVALID
 88_49732122_toecap_type,INVALID
@@ -145,7 +145,7 @@ test_id,des_value
 88_49729534_toecap_type,INVALID
 88_49714122_toecap_type,INVALID
 88_49710195_toecap_type,INVALID
-88_49721370_toecap_type,Abierta
+88_49721370_toecap_type,Redonda
 88_49718784_toecap_type,INVALID
 88_49731312_toecap_type,INVALID
 88_49715185_toecap_type,INVALID
@@ -157,9 +157,9 @@ test_id,des_value
 88_49730986_toecap_type,INVALID
 88_49707283_toecap_type,INVALID
 88_49714899_toecap_type,INVALID
-88_49726510_toecap_type,Redonda
+88_49726510_toecap_type,Cuadrada
 88_49714104_toecap_type,Redonda
-88_49720945_toecap_type,Redonda
+88_49720945_toecap_type,Cuadrada
 88_49712054_toecap_type,Cuadrada
 88_49719363_toecap_type,INVALID
 88_49707221_toecap_type,INVALID
@@ -175,9 +175,9 @@ test_id,des_value
 88_49708313_toecap_type,INVALID
 88_49718970_toecap_type,INVALID
 88_49720053_toecap_type,INVALID
-88_49723881_toecap_type,INVALID
+88_49723881_toecap_type,Redonda
 88_49734273_toecap_type,INVALID
-88_49717555_toecap_type,INVALID
+88_49717555_toecap_type,Redonda
 88_49724962_toecap_type,INVALID
 88_49711108_toecap_type,INVALID
 88_49735947_toecap_type,INVALID
@@ -186,7 +186,7 @@ test_id,des_value
 88_49726628_toecap_type,INVALID
 88_49719988_toecap_type,INVALID
 88_49719674_toecap_type,INVALID
-88_49727096_toecap_type,Redonda
+88_49727096_toecap_type,INVALID
 88_49720860_toecap_type,Redonda
 88_49724281_toecap_type,INVALID
 88_49717749_toecap_type,INVALID
@@ -221,7 +221,7 @@ test_id,des_value
 88_49716511_toecap_type,INVALID
 88_49715363_toecap_type,INVALID
 88_49711202_toecap_type,INVALID
-88_49727927_toecap_type,Redonda
+88_49727927_toecap_type,Cuadrada
 88_49716499_toecap_type,INVALID
 88_49726885_toecap_type,INVALID
 88_49734156_toecap_type,INVALID
@@ -231,7 +231,7 @@ test_id,des_value
 88_49712863_toecap_type,INVALID
 88_49711384_toecap_type,Redonda
 88_49730996_toecap_type,INVALID
-88_49720320_toecap_type,Abierta
+88_49720320_toecap_type,Cuadrada
 88_49731327_toecap_type,INVALID
 88_49723312_toecap_type,INVALID
 88_49716782_toecap_type,Redonda
@@ -252,7 +252,7 @@ test_id,des_value
 88_49735309_toecap_type,INVALID
 88_49717536_toecap_type,INVALID
 88_49721449_toecap_type,INVALID
-88_49723880_toecap_type,INVALID
+88_49723880_toecap_type,Redonda
 88_49719127_toecap_type,INVALID
 88_49721132_toecap_type,INVALID
 88_49722654_toecap_type,INVALID
@@ -272,7 +272,7 @@ test_id,des_value
 88_49713802_toecap_type,INVALID
 88_49729935_toecap_type,INVALID
 88_49727930_toecap_type,INVALID
-88_49713930_toecap_type,INVALID
+88_49713930_toecap_type,Redonda
 88_49713773_toecap_type,INVALID
 88_49713800_toecap_type,INVALID
 88_49725176_toecap_type,INVALID
@@ -319,7 +319,7 @@ test_id,des_value
 88_49726132_toecap_type,INVALID
 88_49720805_toecap_type,INVALID
 88_49720012_toecap_type,INVALID
-88_49708367_toecap_type,INVALID
+88_49708367_toecap_type,Redonda
 88_49728191_toecap_type,INVALID
 88_49714060_toecap_type,INVALID
 88_49709837_toecap_type,INVALID
@@ -358,7 +358,7 @@ test_id,des_value
 88_49712997_toecap_type,INVALID
 88_49719385_toecap_type,INVALID
 88_49741933_toecap_type,INVALID
-88_49720711_toecap_type,Redonda
+88_49720711_toecap_type,Cuadrada
 88_49715780_toecap_type,INVALID
 88_49719336_toecap_type,INVALID
 88_49719140_toecap_type,INVALID
@@ -389,11 +389,11 @@ test_id,des_value
 88_49717854_toecap_type,INVALID
 88_49714009_toecap_type,INVALID
 88_49724103_toecap_type,Redonda
-88_49722721_toecap_type,Redonda
+88_49722721_toecap_type,Cuadrada
 88_49712597_toecap_type,INVALID
 88_49733144_toecap_type,INVALID
 88_49738692_toecap_type,INVALID
-88_49721428_toecap_type,Abierta
+88_49721428_toecap_type,Redonda
 88_49724937_toecap_type,INVALID
 88_49730479_toecap_type,INVALID
 88_49714087_toecap_type,INVALID
@@ -409,7 +409,7 @@ test_id,des_value
 88_49711235_toecap_type,INVALID
 88_49717313_toecap_type,INVALID
 88_49707264_toecap_type,INVALID
-88_49724275_toecap_type,Redonda
+88_49724275_toecap_type,Cuadrada
 88_49731318_toecap_type,INVALID
 88_49722639_toecap_type,INVALID
 88_49713061_toecap_type,INVALID
@@ -435,7 +435,7 @@ test_id,des_value
 88_49711237_toecap_type,INVALID
 88_49708022_toecap_type,INVALID
 88_49727723_toecap_type,INVALID
-88_49719706_toecap_type,INVALID
+88_49719706_toecap_type,Cuadrada
 88_49725178_toecap_type,INVALID
 88_49713807_toecap_type,INVALID
 88_49722679_toecap_type,INVALID
@@ -448,10 +448,10 @@ test_id,des_value
 88_49720930_toecap_type,INVALID
 88_49735304_toecap_type,INVALID
 88_49731853_toecap_type,INVALID
-88_49711620_toecap_type,Redonda
+88_49711620_toecap_type,INVALID
 88_49706787_toecap_type,INVALID
 88_49717895_toecap_type,INVALID
-88_49710244_toecap_type,Cuadrada
+88_49710244_toecap_type,INVALID
 88_49734809_toecap_type,INVALID
 88_49716353_toecap_type,INVALID
 88_49727934_toecap_type,INVALID
@@ -461,7 +461,7 @@ test_id,des_value
 88_49714360_toecap_type,INVALID
 88_49727807_toecap_type,INVALID
 88_49717302_toecap_type,INVALID
-88_49733150_toecap_type,Cuadrada
+88_49733150_toecap_type,Redonda
 88_49713794_toecap_type,INVALID
 88_49729884_toecap_type,INVALID
 88_49710883_toecap_type,INVALID
@@ -481,7 +481,7 @@ test_id,des_value
 88_49726169_toecap_type,INVALID
 88_49730499_toecap_type,INVALID
 88_49728882_toecap_type,INVALID
-88_49719707_toecap_type,Abierta
+88_49719707_toecap_type,Redonda
 88_49715776_toecap_type,INVALID
 88_49724629_toecap_type,INVALID
 88_49713625_toecap_type,INVALID
@@ -502,7 +502,7 @@ test_id,des_value
 88_49725195_toecap_type,INVALID
 88_49714714_toecap_type,INVALID
 88_49715202_toecap_type,INVALID
-88_49722209_toecap_type,Redonda
+88_49722209_toecap_type,Cuadrada
 88_49723275_toecap_type,INVALID
 88_49734606_toecap_type,INVALID
 88_49732289_toecap_type,INVALID
@@ -561,7 +561,7 @@ test_id,des_value
 88_49707291_toecap_type,INVALID
 88_49723066_toecap_type,Redonda
 88_49729754_toecap_type,INVALID
-88_49722451_toecap_type,Abierta
+88_49722451_toecap_type,INVALID
 88_49727353_toecap_type,INVALID
 88_49713630_toecap_type,INVALID
 88_49713827_toecap_type,INVALID
@@ -572,7 +572,7 @@ test_id,des_value
 88_49713096_toecap_type,INVALID
 88_49719389_toecap_type,INVALID
 88_49710553_toecap_type,INVALID
-88_49720280_toecap_type,Redonda
+88_49720280_toecap_type,Con punta
 88_49718200_toecap_type,INVALID
 88_49719419_toecap_type,INVALID
 88_49706431_toecap_type,INVALID
@@ -583,10 +583,10 @@ test_id,des_value
 88_49725248_toecap_type,INVALID
 88_49727605_toecap_type,INVALID
 88_49717744_toecap_type,INVALID
-88_49720327_toecap_type,Abierta
+88_49720327_toecap_type,Redonda
 88_49731828_toecap_type,INVALID
 88_49715335_toecap_type,INVALID
-88_49720753_toecap_type,INVALID
+88_49720753_toecap_type,Redonda
 88_49712589_toecap_type,INVALID
 88_49719008_toecap_type,INVALID
 88_49717542_toecap_type,INVALID
@@ -655,7 +655,7 @@ test_id,des_value
 88_49728445_toecap_type,INVALID
 88_49719090_toecap_type,INVALID
 88_49726144_toecap_type,INVALID
-88_49728707_toecap_type,Redonda
+88_49728707_toecap_type,INVALID
 88_49729338_toecap_type,INVALID
 88_49727330_toecap_type,INVALID
 88_49727738_toecap_type,INVALID
@@ -669,7 +669,7 @@ test_id,des_value
 88_49727540_toecap_type,INVALID
 88_49714896_toecap_type,INVALID
 88_49715212_toecap_type,INVALID
-88_49720295_toecap_type,Con punta
+88_49720295_toecap_type,Redonda
 88_49711349_toecap_type,INVALID
 88_49709566_toecap_type,INVALID
 88_49728519_toecap_type,INVALID
@@ -741,7 +741,7 @@ test_id,des_value
 88_49713059_toecap_type,INVALID
 88_49722977_toecap_type,INVALID
 88_49724947_toecap_type,INVALID
-88_49723892_toecap_type,Abierta
+88_49723892_toecap_type,Redonda
 88_49717414_toecap_type,INVALID
 88_49734143_toecap_type,INVALID
 88_49713093_toecap_type,INVALID
@@ -772,7 +772,7 @@ test_id,des_value
 88_49714031_toecap_type,INVALID
 88_49729312_toecap_type,INVALID
 88_49720276_toecap_type,INVALID
-88_49725600_toecap_type,Abierta
+88_49725600_toecap_type,Redonda
 88_49727729_toecap_type,INVALID
 88_49726767_toecap_type,INVALID
 88_49728853_toecap_type,INVALID
@@ -887,7 +887,7 @@ test_id,des_value
 88_49726810_toecap_type,INVALID
 88_49727105_toecap_type,INVALID
 88_49711387_toecap_type,INVALID
-88_49730315_toecap_type,Abierta
+88_49730315_toecap_type,Redonda
 88_49731330_toecap_type,INVALID
 88_49733654_toecap_type,INVALID
 88_49727784_toecap_type,INVALID
@@ -899,7 +899,7 @@ test_id,des_value
 88_49717016_toecap_type,INVALID
 88_49717007_toecap_type,INVALID
 88_49718209_toecap_type,INVALID
-88_49717707_toecap_type,INVALID
+88_49717707_toecap_type,Redonda
 88_49720035_toecap_type,INVALID
 88_49724904_toecap_type,INVALID
 88_49712409_toecap_type,INVALID
@@ -947,7 +947,7 @@ test_id,des_value
 88_49717970_toecap_type,INVALID
 88_49720809_toecap_type,INVALID
 88_49720751_toecap_type,INVALID
-88_49704446_toecap_type,INVALID
+88_49704446_toecap_type,Cuadrada
 88_49726785_toecap_type,INVALID
 88_49707231_toecap_type,INVALID
 88_49718767_toecap_type,INVALID
@@ -996,7 +996,7 @@ test_id,des_value
 88_49714740_toecap_type,INVALID
 88_49733471_toecap_type,INVALID
 88_49725259_toecap_type,INVALID
-88_49726151_toecap_type,Abierta
+88_49726151_toecap_type,INVALID
 88_49712036_toecap_type,INVALID
 88_49738140_toecap_type,INVALID
 88_49708320_toecap_type,INVALID
@@ -1050,7 +1050,7 @@ test_id,des_value
 88_49709805_toecap_type,INVALID
 88_49725638_toecap_type,INVALID
 88_49720840_toecap_type,INVALID
-88_49720345_toecap_type,Cuadrada
+88_49720345_toecap_type,Redonda
 88_49718866_toecap_type,INVALID
 88_49714006_toecap_type,INVALID
 88_49708006_toecap_type,INVALID
@@ -1070,7 +1070,7 @@ test_id,des_value
 88_49722684_toecap_type,INVALID
 88_49732646_toecap_type,INVALID
 88_49728696_toecap_type,INVALID
-88_49720855_toecap_type,Abierta
+88_49720855_toecap_type,Redonda
 88_49717514_toecap_type,INVALID
 88_49720728_toecap_type,INVALID
 88_49719969_toecap_type,INVALID
@@ -1092,7 +1092,7 @@ test_id,des_value
 88_49711821_toecap_type,INVALID
 88_49708306_toecap_type,INVALID
 88_49717330_toecap_type,Redonda
-88_49705105_toecap_type,Cuadrada
+88_49705105_toecap_type,Redonda
 88_49734603_toecap_type,INVALID
 88_49720332_toecap_type,INVALID
 88_49721138_toecap_type,INVALID
@@ -1129,7 +1129,7 @@ test_id,des_value
 88_49723005_toecap_type,Abierta
 88_49713903_toecap_type,INVALID
 88_49725260_toecap_type,INVALID
-88_49720745_toecap_type,Redonda
+88_49720745_toecap_type,Cuadrada
 88_49725244_toecap_type,INVALID
 88_49715199_toecap_type,INVALID
 88_49723064_toecap_type,INVALID
@@ -1275,7 +1275,7 @@ test_id,des_value
 88_49727759_toecap_type,INVALID
 88_49719974_toecap_type,INVALID
 88_49724676_toecap_type,INVALID
-88_49724079_toecap_type,Cuadrada
+88_49724079_toecap_type,Redonda
 88_49713002_toecap_type,INVALID
 88_49709720_toecap_type,Redonda
 88_49718628_toecap_type,INVALID
@@ -1313,7 +1313,7 @@ test_id,des_value
 88_49710894_toecap_type,INVALID
 88_49717558_toecap_type,INVALID
 88_49724906_toecap_type,Redonda
-88_49704219_toecap_type,INVALID
+88_49704219_toecap_type,Redonda
 88_49720066_toecap_type,INVALID
 88_49707522_toecap_type,INVALID
 88_49718199_toecap_type,INVALID
@@ -1344,14 +1344,14 @@ test_id,des_value
 88_49712731_toecap_type,INVALID
 88_49718092_toecap_type,INVALID
 88_49720713_toecap_type,INVALID
-88_49717881_toecap_type,Cuadrada
+88_49717881_toecap_type,INVALID
 88_49724910_toecap_type,INVALID
 88_49709706_toecap_type,INVALID
 88_49732674_toecap_type,INVALID
 88_49710889_toecap_type,INVALID
 88_49738415_toecap_type,INVALID
 88_49728164_toecap_type,INVALID
-88_49724078_toecap_type,Abierta
+88_49724078_toecap_type,Redonda
 88_49727619_toecap_type,INVALID
 88_49726636_toecap_type,INVALID
 88_49729762_toecap_type,INVALID
@@ -1363,8 +1363,8 @@ test_id,des_value
 88_49724897_toecap_type,INVALID
 88_49707293_toecap_type,INVALID
 88_49710888_toecap_type,INVALID
-88_49717898_toecap_type,INVALID
-88_49710578_toecap_type,Redonda
+88_49717898_toecap_type,Redonda
+88_49710578_toecap_type,Cuadrada
 88_49710879_toecap_type,INVALID
 88_49719935_toecap_type,INVALID
 88_49712060_toecap_type,INVALID
@@ -1411,7 +1411,7 @@ test_id,des_value
 88_49731376_toecap_type,INVALID
 88_49729109_toecap_type,INVALID
 88_49731339_toecap_type,INVALID
-88_49719368_toecap_type,INVALID
+88_49719368_toecap_type,Cuadrada
 88_49731322_toecap_type,INVALID
 88_49713600_toecap_type,INVALID
 88_49734594_toecap_type,INVALID
@@ -1427,7 +1427,7 @@ test_id,des_value
 88_49727613_toecap_type,INVALID
 88_49729120_toecap_type,INVALID
 88_49717888_toecap_type,INVALID
-88_49712049_toecap_type,INVALID
+88_49712049_toecap_type,Cuadrada
 88_49714954_toecap_type,INVALID
 88_49722986_toecap_type,INVALID
 88_49713045_toecap_type,INVALID
@@ -1451,7 +1451,7 @@ test_id,des_value
 88_49718838_toecap_type,INVALID
 88_49724204_toecap_type,INVALID
 88_49727630_toecap_type,INVALID
-88_49713407_toecap_type,INVALID
+88_49713407_toecap_type,Redonda
 88_49728197_toecap_type,INVALID
 88_49722246_toecap_type,INVALID
 88_49713370_toecap_type,INVALID
@@ -1488,7 +1488,7 @@ test_id,des_value
 88_49729916_toecap_type,INVALID
 88_49708380_toecap_type,INVALID
 88_49732388_toecap_type,INVALID
-88_49717873_toecap_type,Redonda
+88_49717873_toecap_type,INVALID
 88_49706237_toecap_type,INVALID
 88_49731392_toecap_type,INVALID
 88_49720071_toecap_type,INVALID
@@ -1500,7 +1500,7 @@ test_id,des_value
 88_49720052_toecap_type,INVALID
 88_49712182_toecap_type,INVALID
 88_49726846_toecap_type,INVALID
-88_49714050_toecap_type,Redonda
+88_49714050_toecap_type,Abierta
 88_49710901_toecap_type,INVALID
 88_49719294_toecap_type,INVALID
 88_49706908_toecap_type,INVALID
@@ -1568,7 +1568,7 @@ test_id,des_value
 88_49712246_toecap_type,INVALID
 88_49729128_toecap_type,INVALID
 88_49729499_toecap_type,INVALID
-88_49723196_toecap_type,Abierta
+88_49723196_toecap_type,Redonda
 88_49722993_toecap_type,INVALID
 88_49727329_toecap_type,INVALID
 88_49724896_toecap_type,INVALID
@@ -1583,7 +1583,7 @@ test_id,des_value
 88_49722236_toecap_type,INVALID
 88_49721682_toecap_type,INVALID
 88_49727758_toecap_type,INVALID
-88_49723523_toecap_type,Abierta
+88_49723523_toecap_type,Redonda
 88_49711160_toecap_type,INVALID
 88_49718603_toecap_type,Redonda
 88_49723063_toecap_type,INVALID
@@ -1593,7 +1593,7 @@ test_id,des_value
 88_49711371_toecap_type,INVALID
 88_49723347_toecap_type,INVALID
 88_49718842_toecap_type,INVALID
-88_49734286_toecap_type,Cuadrada
+88_49734286_toecap_type,Redonda
 88_49722716_toecap_type,INVALID
 88_49724174_toecap_type,INVALID
 88_49718643_toecap_type,INVALID
@@ -1608,10 +1608,10 @@ test_id,des_value
 88_49717853_toecap_type,INVALID
 88_49719675_toecap_type,INVALID
 88_49710922_toecap_type,INVALID
-88_49708020_toecap_type,INVALID
+88_49708020_toecap_type,Con punta
 88_49733142_toecap_type,INVALID
 88_49710997_toecap_type,INVALID
-88_49709403_toecap_type,Redonda
+88_49709403_toecap_type,Con punta
 88_49724208_toecap_type,INVALID
 88_49730261_toecap_type,INVALID
 88_49725558_toecap_type,Con punta
@@ -1624,8 +1624,8 @@ test_id,des_value
 88_49711063_toecap_type,INVALID
 88_49731860_toecap_type,INVALID
 88_49727797_toecap_type,INVALID
-88_49724235_toecap_type,Redonda
-88_49727533_toecap_type,Abierta
+88_49724235_toecap_type,INVALID
+88_49727533_toecap_type,Redonda
 88_49727333_toecap_type,INVALID
 88_49719873_toecap_type,INVALID
 88_49717839_toecap_type,INVALID
@@ -1697,7 +1697,7 @@ test_id,des_value
 88_49729784_toecap_type,INVALID
 88_49729775_toecap_type,INVALID
 88_49724218_toecap_type,INVALID
-88_49717879_toecap_type,Abierta
+88_49717879_toecap_type,INVALID
 88_49728890_toecap_type,INVALID
 88_49722646_toecap_type,INVALID
 88_49730472_toecap_type,INVALID
@@ -1794,7 +1794,7 @@ test_id,des_value
 88_49742784_toecap_type,INVALID
 88_49723268_toecap_type,INVALID
 88_49712383_toecap_type,INVALID
-88_49725585_toecap_type,Cuadrada
+88_49725585_toecap_type,Redonda
 88_49722995_toecap_type,INVALID
 88_49711631_toecap_type,INVALID
 88_49727952_toecap_type,INVALID
@@ -1819,7 +1819,7 @@ test_id,des_value
 88_49728674_toecap_type,INVALID
 88_49708916_toecap_type,INVALID
 88_49742778_toecap_type,INVALID
-88_49720283_toecap_type,Redonda
+88_49720283_toecap_type,Con punta
 88_49720343_toecap_type,INVALID
 88_49716357_toecap_type,INVALID
 88_49710194_toecap_type,INVALID
@@ -1866,14 +1866,14 @@ test_id,des_value
 88_49714054_toecap_type,INVALID
 88_49723269_toecap_type,INVALID
 88_49714093_toecap_type,INVALID
-88_49726180_toecap_type,Abierta
+88_49726180_toecap_type,INVALID
 88_49737961_toecap_type,INVALID
 88_49714972_toecap_type,INVALID
 88_49718609_toecap_type,INVALID
 88_49719133_toecap_type,INVALID
 88_49724588_toecap_type,INVALID
 88_49713790_toecap_type,Redonda
-88_49708356_toecap_type,Cuadrada
+88_49708356_toecap_type,Redonda
 88_49722029_toecap_type,INVALID
 88_49722722_toecap_type,INVALID
 88_49715044_toecap_type,INVALID
@@ -1896,7 +1896,7 @@ test_id,des_value
 88_49727953_toecap_type,INVALID
 88_49732378_toecap_type,INVALID
 88_49708053_toecap_type,INVALID
-88_49723524_toecap_type,Abierta
+88_49723524_toecap_type,Redonda
 88_49720919_toecap_type,INVALID
 88_49711341_toecap_type,INVALID
 88_49724900_toecap_type,INVALID
@@ -1923,7 +1923,7 @@ test_id,des_value
 88_49718103_toecap_type,INVALID
 88_49717062_toecap_type,INVALID
 88_49738691_toecap_type,INVALID
-88_49719426_toecap_type,INVALID
+88_49719426_toecap_type,Redonda
 88_49728878_toecap_type,INVALID
 88_49710198_toecap_type,INVALID
 88_49733112_toecap_type,INVALID
@@ -1936,7 +1936,7 @@ test_id,des_value
 88_49727065_toecap_type,INVALID
 88_49713030_toecap_type,INVALID
 88_49719677_toecap_type,INVALID
-88_49717519_toecap_type,INVALID
+88_49717519_toecap_type,Cuadrada
 88_49727500_toecap_type,INVALID
 88_49729720_toecap_type,INVALID
 88_49721697_toecap_type,INVALID
@@ -1946,14 +1946,14 @@ test_id,des_value
 88_49720294_toecap_type,Redonda
 88_49716504_toecap_type,INVALID
 88_49709374_toecap_type,INVALID
-88_49718477_toecap_type,INVALID
+88_49718477_toecap_type,Cuadrada
 88_49727076_toecap_type,INVALID
 88_49727303_toecap_type,INVALID
 88_49729110_toecap_type,INVALID
 88_49728615_toecap_type,INVALID
 88_49713369_toecap_type,Redonda
 88_49711178_toecap_type,INVALID
-88_49723140_toecap_type,Redonda
+88_49723140_toecap_type,Cuadrada
 88_49731302_toecap_type,INVALID
 88_49712730_toecap_type,INVALID
 88_49721968_toecap_type,INVALID
@@ -1969,7 +1969,7 @@ test_id,des_value
 88_49719375_toecap_type,INVALID
 88_49730878_toecap_type,INVALID
 88_49718641_toecap_type,INVALID
-88_49707296_toecap_type,Redonda
+88_49707296_toecap_type,Con punta
 88_49719807_toecap_type,INVALID
 88_49731026_toecap_type,INVALID
 88_49706227_toecap_type,INVALID
@@ -1993,7 +1993,7 @@ test_id,des_value
 88_49729948_toecap_type,INVALID
 88_49721773_toecap_type,INVALID
 88_49713766_toecap_type,INVALID
-88_49717705_toecap_type,Redonda
+88_49717705_toecap_type,INVALID
 88_49733115_toecap_type,INVALID
 88_49718642_toecap_type,INVALID
 88_49719870_toecap_type,INVALID
@@ -2037,7 +2037,7 @@ test_id,des_value
 88_49713423_toecap_type,INVALID
 88_49712987_toecap_type,INVALID
 88_49731844_toecap_type,INVALID
-88_49720285_toecap_type,INVALID
+88_49720285_toecap_type,Redonda
 88_49722468_toecap_type,INVALID
 88_49720011_toecap_type,INVALID
 88_49728854_toecap_type,INVALID
@@ -2099,7 +2099,7 @@ test_id,des_value
 88_49729168_toecap_type,INVALID
 88_49725768_toecap_type,INVALID
 88_49719872_toecap_type,INVALID
-88_49713384_toecap_type,Abierta
+88_49713384_toecap_type,Redonda
 88_49707247_toecap_type,INVALID
 88_49730467_toecap_type,INVALID
 88_49717971_toecap_type,INVALID
@@ -2114,7 +2114,7 @@ test_id,des_value
 88_49722054_toecap_type,INVALID
 88_49724207_toecap_type,INVALID
 88_49715365_toecap_type,INVALID
-88_49718619_toecap_type,Abierta
+88_49718619_toecap_type,Redonda
 88_49728641_toecap_type,INVALID
 88_49723334_toecap_type,INVALID
 88_49711205_toecap_type,INVALID
@@ -2171,7 +2171,7 @@ test_id,des_value
 88_49708386_toecap_type,INVALID
 88_49706424_toecap_type,INVALID
 88_49717299_toecap_type,Redonda
-88_49721701_toecap_type,Abierta
+88_49721701_toecap_type,Redonda
 88_49718193_toecap_type,INVALID
 88_49719702_toecap_type,INVALID
 88_49714137_toecap_type,INVALID
@@ -2209,7 +2209,7 @@ test_id,des_value
 88_49728666_toecap_type,INVALID
 88_49708032_toecap_type,INVALID
 88_49706905_toecap_type,INVALID
-88_49712359_toecap_type,Redonda
+88_49712359_toecap_type,Cuadrada
 88_49727357_toecap_type,Redonda
 88_49729868_toecap_type,INVALID
 88_49731374_toecap_type,INVALID
@@ -2224,7 +2224,7 @@ test_id,des_value
 88_49706437_toecap_type,Redonda
 88_49724254_toecap_type,INVALID
 88_49723710_toecap_type,INVALID
-88_49722083_toecap_type,Redonda
+88_49722083_toecap_type,INVALID
 88_49730312_toecap_type,Redonda
 88_49730308_toecap_type,INVALID
 88_49721159_toecap_type,INVALID
@@ -2254,7 +2254,7 @@ test_id,des_value
 88_49710914_toecap_type,INVALID
 88_49732359_toecap_type,INVALID
 88_49719002_toecap_type,INVALID
-88_49724243_toecap_type,Abierta
+88_49724243_toecap_type,Redonda
 88_49721419_toecap_type,INVALID
 88_49718854_toecap_type,INVALID
 88_49717332_toecap_type,INVALID
@@ -2319,7 +2319,7 @@ test_id,des_value
 88_49714971_toecap_type,INVALID
 88_49716770_toecap_type,INVALID
 88_49718157_toecap_type,INVALID
-88_49719346_toecap_type,Cuadrada
+88_49719346_toecap_type,INVALID
 88_49720800_toecap_type,INVALID
 88_49729509_toecap_type,INVALID
 88_49712575_toecap_type,INVALID
@@ -2381,7 +2381,7 @@ test_id,des_value
 88_49711348_toecap_type,INVALID
 88_49719138_toecap_type,INVALID
 88_49733109_toecap_type,INVALID
-88_49731013_toecap_type,Cuadrada
+88_49731013_toecap_type,Redonda
 88_49728662_toecap_type,INVALID
 88_49717028_toecap_type,INVALID
 88_49727948_toecap_type,INVALID
@@ -2403,11 +2403,11 @@ test_id,des_value
 88_49720827_toecap_type,INVALID
 88_49729871_toecap_type,INVALID
 88_49728889_toecap_type,INVALID
-88_49715325_toecap_type,Abierta
+88_49715325_toecap_type,Redonda
 88_49731300_toecap_type,INVALID
 88_49729464_toecap_type,INVALID
 88_49707252_toecap_type,INVALID
-88_49723525_toecap_type,Redonda
+88_49723525_toecap_type,INVALID
 88_49710588_toecap_type,INVALID
 88_49723313_toecap_type,INVALID
 88_49715783_toecap_type,INVALID
@@ -2416,7 +2416,7 @@ test_id,des_value
 88_49739498_toecap_type,INVALID
 88_49713601_toecap_type,INVALID
 88_49719995_toecap_type,INVALID
-88_49725640_toecap_type,INVALID
+88_49725640_toecap_type,Con punta
 88_49723305_toecap_type,INVALID
 88_49712034_toecap_type,INVALID
 88_49741741_toecap_type,INVALID
@@ -2434,11 +2434,11 @@ test_id,des_value
 88_49720705_toecap_type,INVALID
 88_49711622_toecap_type,INVALID
 88_49717424_toecap_type,INVALID
-88_49712228_toecap_type,INVALID
+88_49712228_toecap_type,Redonda
 88_49714021_toecap_type,INVALID
 88_49710995_toecap_type,INVALID
 88_49730855_toecap_type,INVALID
-88_49723031_toecap_type,Abierta
+88_49723031_toecap_type,INVALID
 88_49725813_toecap_type,INVALID
 88_49710266_toecap_type,INVALID
 88_49710893_toecap_type,INVALID
@@ -2458,7 +2458,7 @@ test_id,des_value
 88_49732121_toecap_type,INVALID
 88_49723857_toecap_type,INVALID
 88_49719890_toecap_type,INVALID
-88_49707281_toecap_type,Redonda
+88_49707281_toecap_type,Cuadrada
 88_49711093_toecap_type,INVALID
 88_49727530_toecap_type,INVALID
 88_49720740_toecap_type,INVALID
@@ -2539,7 +2539,7 @@ test_id,des_value
 88_49731310_toecap_type,INVALID
 88_49720264_toecap_type,INVALID
 88_49711051_toecap_type,INVALID
-88_49726145_toecap_type,Redonda
+88_49726145_toecap_type,INVALID
 88_49720300_toecap_type,INVALID
 88_49727110_toecap_type,INVALID
 88_49718431_toecap_type,INVALID
@@ -2559,7 +2559,7 @@ test_id,des_value
 88_49713335_toecap_type,INVALID
 88_49726112_toecap_type,INVALID
 88_49735575_toecap_type,INVALID
-88_49712051_toecap_type,Cuadrada
+88_49712051_toecap_type,Redonda
 88_49725795_toecap_type,INVALID
 88_49721441_toecap_type,INVALID
 88_49732383_toecap_type,INVALID
@@ -2579,7 +2579,7 @@ test_id,des_value
 88_49729532_toecap_type,INVALID
 88_49727502_toecap_type,INVALID
 88_49730853_toecap_type,INVALID
-88_49718844_toecap_type,Redonda
+88_49718844_toecap_type,Cuadrada
 88_49733664_toecap_type,INVALID
 88_49733684_toecap_type,INVALID
 88_49734582_toecap_type,INVALID
@@ -2589,7 +2589,7 @@ test_id,des_value
 88_49728722_toecap_type,INVALID
 88_49711122_toecap_type,INVALID
 88_49734813_toecap_type,INVALID
-88_49720949_toecap_type,Cuadrada
+88_49720949_toecap_type,INVALID
 88_49714707_toecap_type,INVALID
 88_49717516_toecap_type,INVALID
 88_49719997_toecap_type,INVALID
@@ -2602,13 +2602,13 @@ test_id,des_value
 88_49729924_toecap_type,INVALID
 88_49708544_toecap_type,INVALID
 88_49725635_toecap_type,INVALID
-88_49704978_toecap_type,Redonda
+88_49704978_toecap_type,Con punta
 88_49721708_toecap_type,INVALID
 88_49719332_toecap_type,INVALID
 88_49713899_toecap_type,INVALID
 88_49734821_toecap_type,INVALID
 88_49719909_toecap_type,INVALID
-88_49704445_toecap_type,Redonda
+88_49704445_toecap_type,Cuadrada
 88_49710942_toecap_type,INVALID
 88_49737418_toecap_type,INVALID
 88_49720068_toecap_type,INVALID
@@ -2639,11 +2639,11 @@ test_id,des_value
 88_49722081_toecap_type,INVALID
 88_49711146_toecap_type,INVALID
 88_49716513_toecap_type,INVALID
-88_49717890_toecap_type,INVALID
+88_49717890_toecap_type,Redonda
 88_49731702_toecap_type,INVALID
 88_49713925_toecap_type,INVALID
 88_49714376_toecap_type,INVALID
-88_49713023_toecap_type,Abierta
+88_49713023_toecap_type,Redonda
 88_49735465_toecap_type,INVALID
 88_49728642_toecap_type,INVALID
 88_49722991_toecap_type,INVALID
@@ -2672,7 +2672,7 @@ test_id,des_value
 88_49719945_toecap_type,INVALID
 88_49709422_toecap_type,INVALID
 88_49723030_toecap_type,INVALID
-88_49705107_toecap_type,INVALID
+88_49705107_toecap_type,Con punta
 88_49712827_toecap_type,INVALID
 88_49718768_toecap_type,INVALID
 88_49713572_toecap_type,INVALID
@@ -2687,19 +2687,19 @@ test_id,des_value
 88_49727351_toecap_type,INVALID
 88_49731833_toecap_type,INVALID
 88_49732972_toecap_type,INVALID
-88_49724284_toecap_type,Abierta
+88_49724284_toecap_type,Redonda
 88_49711610_toecap_type,INVALID
 88_49711152_toecap_type,INVALID
 88_49728130_toecap_type,INVALID
 88_49714056_toecap_type,INVALID
 88_49718456_toecap_type,INVALID
-88_49707297_toecap_type,INVALID
+88_49707297_toecap_type,Redonda
 88_49712398_toecap_type,Redonda
 88_49714970_toecap_type,INVALID
 88_49734289_toecap_type,INVALID
 88_49722767_toecap_type,INVALID
 88_49729329_toecap_type,INVALID
-88_49723522_toecap_type,Abierta
+88_49723522_toecap_type,Redonda
 88_49723705_toecap_type,INVALID
 88_49729123_toecap_type,INVALID
 88_49728124_toecap_type,INVALID
@@ -2707,7 +2707,7 @@ test_id,des_value
 88_49718104_toecap_type,INVALID
 88_49725240_toecap_type,INVALID
 88_49730874_toecap_type,INVALID
-88_49720030_toecap_type,Redonda
+88_49720030_toecap_type,INVALID
 88_49732367_toecap_type,INVALID
 88_49712614_toecap_type,INVALID
 88_49710993_toecap_type,INVALID
@@ -2732,7 +2732,7 @@ test_id,des_value
 88_49712399_toecap_type,INVALID
 88_49715666_toecap_type,INVALID
 88_49710895_toecap_type,INVALID
-88_49704220_toecap_type,Redonda
+88_49704220_toecap_type,Con punta
 88_49715381_toecap_type,INVALID
 88_49725222_toecap_type,INVALID
 88_49714329_toecap_type,INVALID
@@ -2803,7 +2803,7 @@ test_id,des_value
 88_49711023_toecap_type,INVALID
 88_49721952_toecap_type,INVALID
 88_49710206_toecap_type,INVALID
-88_49724104_toecap_type,INVALID
+88_49724104_toecap_type,Redonda
 88_49731377_toecap_type,INVALID
 88_49735317_toecap_type,INVALID
 88_49717698_toecap_type,INVALID
@@ -2818,9 +2818,9 @@ test_id,des_value
 88_49727762_toecap_type,INVALID
 88_49727922_toecap_type,INVALID
 88_49733681_toecap_type,INVALID
-88_49709719_toecap_type,Cuadrada
+88_49709719_toecap_type,INVALID
 88_49721748_toecap_type,INVALID
-88_49718859_toecap_type,INVALID
+88_49718859_toecap_type,Redonda
 88_49728455_toecap_type,INVALID
 88_49713624_toecap_type,INVALID
 88_49728689_toecap_type,INVALID
@@ -2830,7 +2830,7 @@ test_id,des_value
 88_49720787_toecap_type,INVALID
 88_49715678_toecap_type,INVALID
 88_49730246_toecap_type,INVALID
-88_49723775_toecap_type,Con punta
+88_49723775_toecap_type,Cuadrada
 88_49725775_toecap_type,INVALID
 88_49728147_toecap_type,INVALID
 88_49723328_toecap_type,INVALID
@@ -2885,10 +2885,10 @@ test_id,des_value
 88_49722753_toecap_type,INVALID
 88_49722998_toecap_type,INVALID
 88_49707220_toecap_type,INVALID
-88_49717729_toecap_type,Abierta
+88_49717729_toecap_type,Redonda
 88_49737952_toecap_type,INVALID
 88_49710473_toecap_type,Redonda
-88_49727046_toecap_type,INVALID
+88_49727046_toecap_type,Redonda
 88_49731337_toecap_type,INVALID
 88_49710945_toecap_type,INVALID
 88_49720851_toecap_type,INVALID
@@ -2897,7 +2897,7 @@ test_id,des_value
 88_49711376_toecap_type,INVALID
 88_49720322_toecap_type,INVALID
 88_49716779_toecap_type,INVALID
-88_49727515_toecap_type,Con punta
+88_49727515_toecap_type,Redonda
 88_49720774_toecap_type,Abierta
 88_49713580_toecap_type,INVALID
 88_49715675_toecap_type,INVALID
@@ -2967,7 +2967,7 @@ test_id,des_value
 88_49720050_toecap_type,INVALID
 88_49711000_toecap_type,INVALID
 88_49717272_toecap_type,INVALID
-88_49726490_toecap_type,Con punta
+88_49726490_toecap_type,Cuadrada
 88_49731711_toecap_type,INVALID
 88_49705920_toecap_type,INVALID
 88_49727369_toecap_type,INVALID
@@ -2981,7 +2981,7 @@ test_id,des_value
 88_49717892_toecap_type,INVALID
 88_49728451_toecap_type,INVALID
 88_49719439_toecap_type,INVALID
-88_49728708_toecap_type,INVALID
+88_49728708_toecap_type,Con punta
 88_49708333_toecap_type,Con punta
 88_49710943_toecap_type,INVALID
 88_49719937_toecap_type,INVALID
@@ -2992,7 +2992,7 @@ test_id,des_value
 88_49718954_toecap_type,INVALID
 88_49723574_toecap_type,INVALID
 88_49711350_toecap_type,INVALID
-88_49713357_toecap_type,Redonda
+88_49713357_toecap_type,INVALID
 88_49719085_toecap_type,INVALID
 88_49720718_toecap_type,Redonda
 88_49718127_toecap_type,INVALID
@@ -3013,7 +3013,7 @@ test_id,des_value
 88_49709572_toecap_type,INVALID
 88_49714723_toecap_type,INVALID
 88_49730478_toecap_type,INVALID
-88_49711078_toecap_type,INVALID
+88_49711078_toecap_type,Cuadrada
 88_49714341_toecap_type,INVALID
 88_49725831_toecap_type,INVALID
 88_49720772_toecap_type,INVALID
@@ -3052,7 +3052,7 @@ test_id,des_value
 88_49720811_toecap_type,INVALID
 88_49730323_toecap_type,INVALID
 88_49709385_toecap_type,INVALID
-88_49726157_toecap_type,INVALID
+88_49726157_toecap_type,Cuadrada
 88_49709884_toecap_type,INVALID
 88_49726160_toecap_type,INVALID
 88_49734150_toecap_type,INVALID
@@ -3080,7 +3080,7 @@ test_id,des_value
 88_49719087_toecap_type,INVALID
 88_49710242_toecap_type,INVALID
 88_49722690_toecap_type,INVALID
-88_49724638_toecap_type,Redonda
+88_49724638_toecap_type,Cuadrada
 88_49727734_toecap_type,INVALID
 88_49720731_toecap_type,INVALID
 88_49721463_toecap_type,INVALID
@@ -3118,7 +3118,7 @@ test_id,des_value
 88_49718107_toecap_type,INVALID
 88_49711179_toecap_type,INVALID
 88_49728860_toecap_type,INVALID
-88_49711149_toecap_type,Redonda
+88_49711149_toecap_type,Cuadrada
 88_49713586_toecap_type,INVALID
 88_49717064_toecap_type,INVALID
 88_49713583_toecap_type,INVALID
@@ -3159,7 +3159,7 @@ test_id,des_value
 88_49708037_toecap_type,INVALID
 88_49715052_toecap_type,INVALID
 88_49721136_toecap_type,INVALID
-88_49724917_toecap_type,Cuadrada
+88_49724917_toecap_type,Redonda
 88_49717886_toecap_type,INVALID
 88_49719091_toecap_type,INVALID
 88_49729783_toecap_type,INVALID
@@ -3199,7 +3199,7 @@ test_id,des_value
 88_49729475_toecap_type,INVALID
 88_49719441_toecap_type,INVALID
 88_49719963_toecap_type,INVALID
-88_49712362_toecap_type,INVALID
+88_49712362_toecap_type,Redonda
 88_49718128_toecap_type,INVALID
 88_49734803_toecap_type,INVALID
 88_49719415_toecap_type,INVALID
@@ -3252,9 +3252,9 @@ test_id,des_value
 88_49723875_toecap_type,INVALID
 88_49728729_toecap_type,INVALID
 88_49710951_toecap_type,INVALID
-88_49730313_toecap_type,INVALID
+88_49730313_toecap_type,Redonda
 88_49726864_toecap_type,INVALID
-88_49724081_toecap_type,Abierta
+88_49724081_toecap_type,Redonda
 88_49727499_toecap_type,INVALID
 88_49721688_toecap_type,INVALID
 88_49709834_toecap_type,INVALID
@@ -3331,7 +3331,7 @@ test_id,des_value
 88_49725183_toecap_type,INVALID
 88_49737949_toecap_type,INVALID
 88_49721382_toecap_type,INVALID
-88_49717308_toecap_type,INVALID
+88_49717308_toecap_type,Redonda
 88_49721460_toecap_type,INVALID
 88_49718955_toecap_type,INVALID
 88_49715148_toecap_type,INVALID
@@ -3472,7 +3472,7 @@ test_id,des_value
 88_49718474_toecap_type,INVALID
 88_49710289_toecap_type,INVALID
 88_49725226_toecap_type,INVALID
-88_49733125_toecap_type,INVALID
+88_49733125_toecap_type,Con punta
 88_49726820_toecap_type,INVALID
 88_49710637_toecap_type,INVALID
 88_49738974_toecap_type,INVALID
@@ -3547,7 +3547,7 @@ test_id,des_value
 88_49716262_toecap_type,INVALID
 88_49729130_toecap_type,INVALID
 88_49705108_toecap_type,Redonda
-88_49726505_toecap_type,Con punta
+88_49726505_toecap_type,Redonda
 88_49718452_toecap_type,Redonda
 88_49721669_toecap_type,INVALID
 88_49706242_toecap_type,INVALID
@@ -3593,7 +3593,7 @@ test_id,des_value
 88_49708318_toecap_type,INVALID
 88_49721738_toecap_type,INVALID
 88_49715173_toecap_type,INVALID
-88_49720329_toecap_type,Cuadrada
+88_49720329_toecap_type,Redonda
 88_49711088_toecap_type,INVALID
 88_49720266_toecap_type,INVALID
 88_49715054_toecap_type,INVALID
@@ -3619,12 +3619,12 @@ test_id,des_value
 88_49716501_toecap_type,INVALID
 88_49713575_toecap_type,INVALID
 88_49722992_toecap_type,INVALID
-88_49729906_toecap_type,Abierta
+88_49729906_toecap_type,Redonda
 88_49710274_toecap_type,INVALID
 88_49713602_toecap_type,INVALID
 88_49713806_toecap_type,Redonda
 88_49728157_toecap_type,INVALID
-88_49705289_toecap_type,INVALID
+88_49705289_toecap_type,Cuadrada
 88_49721705_toecap_type,INVALID
 88_49728149_toecap_type,INVALID
 88_49711217_toecap_type,INVALID
@@ -3673,7 +3673,7 @@ test_id,des_value
 88_49720034_toecap_type,INVALID
 88_49708302_toecap_type,INVALID
 88_49718113_toecap_type,INVALID
-88_49717968_toecap_type,Cuadrada
+88_49717968_toecap_type,Redonda
 88_49729747_toecap_type,INVALID
 88_49711828_toecap_type,INVALID
 88_49728500_toecap_type,INVALID
@@ -3737,9 +3737,9 @@ test_id,des_value
 88_49720077_toecap_type,INVALID
 88_49740549_toecap_type,INVALID
 88_49720748_toecap_type,INVALID
-88_49713387_toecap_type,Abierta
+88_49713387_toecap_type,Redonda
 88_49726171_toecap_type,INVALID
-88_49719410_toecap_type,Redonda
+88_49719410_toecap_type,INVALID
 88_49723048_toecap_type,INVALID
 88_49722619_toecap_type,INVALID
 88_49723024_toecap_type,INVALID
@@ -3762,7 +3762,7 @@ test_id,des_value
 88_49717732_toecap_type,INVALID
 88_49716766_toecap_type,INVALID
 88_49723009_toecap_type,INVALID
-88_49727961_toecap_type,Redonda
+88_49727961_toecap_type,Con punta
 88_49712602_toecap_type,INVALID
 88_49728683_toecap_type,INVALID
 88_49712243_toecap_type,INVALID
@@ -3771,9 +3771,9 @@ test_id,des_value
 88_49718093_toecap_type,INVALID
 88_49727375_toecap_type,INVALID
 88_49711210_toecap_type,INVALID
-88_49717556_toecap_type,Redonda
+88_49717556_toecap_type,INVALID
 88_49715473_toecap_type,INVALID
-88_49716267_toecap_type,Abierta
+88_49716267_toecap_type,Con punta
 88_49727919_toecap_type,INVALID
 88_49719802_toecap_type,INVALID
 88_49732394_toecap_type,INVALID
@@ -3798,7 +3798,7 @@ test_id,des_value
 88_49717027_toecap_type,INVALID
 88_49721425_toecap_type,INVALID
 88_49712567_toecap_type,INVALID
-88_49713792_toecap_type,Abierta
+88_49713792_toecap_type,Redonda
 88_49723358_toecap_type,INVALID
 88_49724643_toecap_type,INVALID
 88_49718968_toecap_type,INVALID
@@ -3821,17 +3821,17 @@ test_id,des_value
 88_49712369_toecap_type,Redonda
 88_49720293_toecap_type,INVALID
 88_49716623_toecap_type,INVALID
-88_49717296_toecap_type,Abierta
+88_49717296_toecap_type,Redonda
 88_49722594_toecap_type,INVALID
 88_49734451_toecap_type,INVALID
 88_49711606_toecap_type,INVALID
 88_49715523_toecap_type,INVALID
 88_49726143_toecap_type,INVALID
-88_49713362_toecap_type,Abierta
+88_49713362_toecap_type,Redonda
 88_49726651_toecap_type,INVALID
 88_49715782_toecap_type,INVALID
 88_49731425_toecap_type,INVALID
-88_49717849_toecap_type,Cuadrada
+88_49717849_toecap_type,INVALID
 88_49722972_toecap_type,INVALID
 88_49714124_toecap_type,INVALID
 88_49715354_toecap_type,Redonda
@@ -3934,7 +3934,7 @@ test_id,des_value
 88_49728188_toecap_type,INVALID
 88_49708048_toecap_type,INVALID
 88_49727336_toecap_type,INVALID
-88_49734284_toecap_type,Con punta
+88_49734284_toecap_type,Redonda
 88_49709589_toecap_type,INVALID
 88_49713069_toecap_type,INVALID
 88_49725172_toecap_type,INVALID
@@ -3946,7 +3946,7 @@ test_id,des_value
 88_49719610_toecap_type,INVALID
 88_49722762_toecap_type,Redonda
 88_49728154_toecap_type,INVALID
-88_49708355_toecap_type,Redonda
+88_49708355_toecap_type,Con punta
 88_49725814_toecap_type,INVALID
 88_49719851_toecap_type,INVALID
 88_49733479_toecap_type,INVALID
@@ -3971,7 +3971,7 @@ test_id,des_value
 88_49720765_toecap_type,INVALID
 88_49713578_toecap_type,INVALID
 88_49728160_toecap_type,INVALID
-88_49730320_toecap_type,Cuadrada
+88_49730320_toecap_type,Con punta
 88_49714328_toecap_type,INVALID
 88_49711158_toecap_type,INVALID
 88_49705921_toecap_type,INVALID
@@ -4000,7 +4000,7 @@ test_id,des_value
 88_49722070_toecap_type,INVALID
 88_49711326_toecap_type,INVALID
 88_49714710_toecap_type,INVALID
-88_49717526_toecap_type,Abierta
+88_49717526_toecap_type,Redonda
 88_49725167_toecap_type,INVALID
 88_49732660_toecap_type,Redonda
 88_49717952_toecap_type,INVALID
@@ -4022,7 +4022,7 @@ test_id,des_value
 88_49728640_toecap_type,INVALID
 88_49713959_toecap_type,INVALID
 88_49714717_toecap_type,INVALID
-88_49708029_toecap_type,Redonda
+88_49708029_toecap_type,Con punta
 88_49731020_toecap_type,INVALID
 88_49725806_toecap_type,INVALID
 88_49715304_toecap_type,INVALID
@@ -4042,7 +4042,7 @@ test_id,des_value
 88_49719913_toecap_type,INVALID
 88_49724263_toecap_type,Abierta
 88_49734840_toecap_type,INVALID
-88_49719892_toecap_type,Redonda
+88_49719892_toecap_type,Con punta
 88_49726518_toecap_type,INVALID
 88_49728121_toecap_type,INVALID
 88_49728506_toecap_type,INVALID
@@ -4110,7 +4110,7 @@ test_id,des_value
 88_49728724_toecap_type,INVALID
 88_49718145_toecap_type,INVALID
 88_49727095_toecap_type,INVALID
-88_49717861_toecap_type,INVALID
+88_49717861_toecap_type,Redonda
 88_49734455_toecap_type,Cuadrada
 88_49722243_toecap_type,INVALID
 88_49718644_toecap_type,Redonda
@@ -4134,7 +4134,7 @@ test_id,des_value
 88_49717014_toecap_type,INVALID
 88_49714938_toecap_type,INVALID
 88_49713377_toecap_type,INVALID
-88_49718132_toecap_type,Redonda
+88_49718132_toecap_type,Cuadrada
 88_49716121_toecap_type,INVALID
 88_49725557_toecap_type,INVALID
 88_49712200_toecap_type,INVALID
@@ -4178,7 +4178,7 @@ test_id,des_value
 88_49731365_toecap_type,INVALID
 88_49712714_toecap_type,INVALID
 88_49729856_toecap_type,INVALID
-88_49718867_toecap_type,Redonda
+88_49718867_toecap_type,INVALID
 88_49734564_toecap_type,INVALID
 88_49729942_toecap_type,INVALID
 88_49731297_toecap_type,INVALID
@@ -4199,12 +4199,12 @@ test_id,des_value
 88_49735314_toecap_type,INVALID
 88_49717903_toecap_type,INVALID
 88_49727313_toecap_type,Redonda
-88_49720031_toecap_type,Redonda
+88_49720031_toecap_type,Cuadrada
 88_49723032_toecap_type,INVALID
 88_49714698_toecap_type,INVALID
 88_49712233_toecap_type,INVALID
 88_49720043_toecap_type,INVALID
-88_49718809_toecap_type,Redonda
+88_49718809_toecap_type,INVALID
 88_49714918_toecap_type,INVALID
 88_49726170_toecap_type,INVALID
 88_49724624_toecap_type,INVALID
@@ -4227,7 +4227,7 @@ test_id,des_value
 88_49722773_toecap_type,INVALID
 88_49724072_toecap_type,INVALID
 88_49721690_toecap_type,INVALID
-88_49713356_toecap_type,Abierta
+88_49713356_toecap_type,Redonda
 88_49720330_toecap_type,INVALID
 88_49720722_toecap_type,INVALID
 88_49713339_toecap_type,INVALID
@@ -4274,7 +4274,7 @@ test_id,des_value
 88_49717418_toecap_type,INVALID
 88_49734563_toecap_type,INVALID
 88_49719386_toecap_type,INVALID
-88_49721342_toecap_type,Con punta
+88_49721342_toecap_type,Cuadrada
 88_49729913_toecap_type,INVALID
 88_49721452_toecap_type,INVALID
 88_49717869_toecap_type,INVALID
@@ -4345,7 +4345,7 @@ test_id,des_value
 88_49730990_toecap_type,INVALID
 88_49731271_toecap_type,INVALID
 88_49727083_toecap_type,INVALID
-88_49724679_toecap_type,Cuadrada
+88_49724679_toecap_type,Redonda
 88_49715364_toecap_type,INVALID
 88_49736183_toecap_type,INVALID
 88_49718115_toecap_type,INVALID
@@ -4366,7 +4366,7 @@ test_id,des_value
 88_49719437_toecap_type,INVALID
 88_49735324_toecap_type,INVALID
 88_49722504_toecap_type,INVALID
-88_49708042_toecap_type,Redonda
+88_49708042_toecap_type,Con punta
 88_49720017_toecap_type,INVALID
 88_49713385_toecap_type,INVALID
 88_49726517_toecap_type,INVALID
@@ -4430,7 +4430,7 @@ test_id,des_value
 88_49710283_toecap_type,INVALID
 88_49718443_toecap_type,INVALID
 88_49705919_toecap_type,INVALID
-88_49708334_toecap_type,Con punta
+88_49708334_toecap_type,Redonda
 88_49711834_toecap_type,INVALID
 88_49728520_toecap_type,INVALID
 88_49713328_toecap_type,INVALID
@@ -4491,7 +4491,7 @@ test_id,des_value
 88_49719010_toecap_type,INVALID
 88_49710584_toecap_type,INVALID
 88_49732653_toecap_type,INVALID
-88_49717969_toecap_type,Cuadrada
+88_49717969_toecap_type,INVALID
 88_49737289_toecap_type,INVALID
 88_49717331_toecap_type,INVALID
 88_49735311_toecap_type,INVALID
@@ -4511,7 +4511,7 @@ test_id,des_value
 88_49711228_toecap_type,INVALID
 88_49712843_toecap_type,INVALID
 88_49719278_toecap_type,INVALID
-88_49719427_toecap_type,INVALID
+88_49719427_toecap_type,Redonda
 88_49711131_toecap_type,INVALID
 88_49730269_toecap_type,INVALID
 88_49713606_toecap_type,INVALID
@@ -4523,7 +4523,7 @@ test_id,des_value
 88_49730877_toecap_type,INVALID
 88_49741935_toecap_type,INVALID
 88_49707258_toecap_type,INVALID
-88_49708361_toecap_type,Redonda
+88_49708361_toecap_type,Cuadrada
 88_49717530_toecap_type,INVALID
 88_49715146_toecap_type,INVALID
 88_49727304_toecap_type,INVALID
@@ -4573,9 +4573,9 @@ test_id,des_value
 88_49714105_toecap_type,INVALID
 88_49712202_toecap_type,INVALID
 88_49722239_toecap_type,INVALID
-88_49723139_toecap_type,Cuadrada
+88_49723139_toecap_type,Redonda
 88_49708303_toecap_type,INVALID
-88_49717974_toecap_type,Abierta
+88_49717974_toecap_type,Redonda
 88_49716352_toecap_type,INVALID
 88_49723540_toecap_type,Redonda
 88_49721725_toecap_type,INVALID
@@ -4592,13 +4592,13 @@ test_id,des_value
 88_49715356_toecap_type,INVALID
 88_49722742_toecap_type,INVALID
 88_49707250_toecap_type,INVALID
-88_49708509_toecap_type,Cuadrada
+88_49708509_toecap_type,Redonda
 88_49718973_toecap_type,INVALID
 88_49718868_toecap_type,INVALID
 88_49717958_toecap_type,INVALID
 88_49723337_toecap_type,INVALID
 88_49709836_toecap_type,INVALID
-88_49733123_toecap_type,Redonda
+88_49733123_toecap_type,Cuadrada
 88_49709597_toecap_type,INVALID
 88_49711105_toecap_type,INVALID
 88_49711123_toecap_type,INVALID
@@ -4622,7 +4622,7 @@ test_id,des_value
 88_49727103_toecap_type,INVALID
 88_49706236_toecap_type,INVALID
 88_49731277_toecap_type,INVALID
-88_49728138_toecap_type,Cuadrada
+88_49728138_toecap_type,Con punta
 88_49720272_toecap_type,INVALID
 88_49731720_toecap_type,INVALID
 88_49722250_toecap_type,INVALID
@@ -4643,7 +4643,7 @@ test_id,des_value
 88_49710911_toecap_type,INVALID
 88_49719265_toecap_type,INVALID
 88_49733460_toecap_type,INVALID
-88_49726117_toecap_type,Redonda
+88_49726117_toecap_type,Con punta
 88_49711220_toecap_type,INVALID
 88_49717056_toecap_type,INVALID
 88_49715653_toecap_type,INVALID
@@ -4685,13 +4685,13 @@ test_id,des_value
 88_49713579_toecap_type,INVALID
 88_49719867_toecap_type,INVALID
 88_49706235_toecap_type,INVALID
-88_49708360_toecap_type,Con punta
+88_49708360_toecap_type,Redonda
 88_49710442_toecap_type,INVALID
 88_49723308_toecap_type,INVALID
 88_49734827_toecap_type,INVALID
 88_49719630_toecap_type,INVALID
 88_49725233_toecap_type,INVALID
-88_49717290_toecap_type,Redonda
+88_49717290_toecap_type,Con punta
 88_49730491_toecap_type,INVALID
 88_49730282_toecap_type,INVALID
 88_49715307_toecap_type,INVALID
@@ -4726,7 +4726,7 @@ test_id,des_value
 88_49711840_toecap_type,INVALID
 88_49712231_toecap_type,INVALID
 88_49726488_toecap_type,INVALID
-88_49721151_toecap_type,Cuadrada
+88_49721151_toecap_type,Redonda
 88_49723338_toecap_type,INVALID
 88_49717065_toecap_type,Redonda
 88_49713940_toecap_type,INVALID
@@ -4797,7 +4797,7 @@ test_id,des_value
 88_49718828_toecap_type,INVALID
 88_49713106_toecap_type,INVALID
 88_49708684_toecap_type,Redonda
-88_49729153_toecap_type,Redonda
+88_49729153_toecap_type,Abierta
 88_49728444_toecap_type,INVALID
 88_49705112_toecap_type,INVALID
 88_49732644_toecap_type,INVALID
@@ -4810,7 +4810,7 @@ test_id,des_value
 88_49731432_toecap_type,INVALID
 88_49733672_toecap_type,INVALID
 88_49711169_toecap_type,INVALID
-88_49715321_toecap_type,Redonda
+88_49715321_toecap_type,Cuadrada
 88_49712248_toecap_type,INVALID
 88_49717902_toecap_type,INVALID
 88_49718604_toecap_type,Redonda
@@ -4854,9 +4854,9 @@ test_id,des_value
 88_49717422_toecap_type,INVALID
 88_49723282_toecap_type,INVALID
 88_49731268_toecap_type,INVALID
-88_49707282_toecap_type,INVALID
+88_49707282_toecap_type,Redonda
 88_49718839_toecap_type,INVALID
-88_49709375_toecap_type,Redonda
+88_49709375_toecap_type,Cuadrada
 88_49708519_toecap_type,INVALID
 88_49721953_toecap_type,INVALID
 88_49720303_toecap_type,INVALID
@@ -4878,7 +4878,7 @@ test_id,des_value
 88_49718624_toecap_type,INVALID
 88_49717878_toecap_type,INVALID
 88_49729525_toecap_type,INVALID
-88_49712207_toecap_type,INVALID
+88_49712207_toecap_type,Redonda
 88_49726841_toecap_type,INVALID
 88_49711155_toecap_type,INVALID
 88_49712573_toecap_type,INVALID
@@ -4942,7 +4942,7 @@ test_id,des_value
 88_49712586_toecap_type,INVALID
 88_49710907_toecap_type,INVALID
 88_49710457_toecap_type,INVALID
-88_49711041_toecap_type,Con punta
+88_49711041_toecap_type,Redonda
 88_49711630_toecap_type,INVALID
 88_49730869_toecap_type,INVALID
 88_49710982_toecap_type,INVALID
@@ -4983,7 +4983,7 @@ test_id,des_value
 88_49726512_toecap_type,INVALID
 88_49712826_toecap_type,INVALID
 88_49732131_toecap_type,INVALID
-88_49719907_toecap_type,Redonda
+88_49719907_toecap_type,Con punta
 88_49720338_toecap_type,Cuadrada
 88_49714073_toecap_type,INVALID
 88_49708370_toecap_type,INVALID
@@ -5001,7 +5001,7 @@ test_id,des_value
 88_49726104_toecap_type,INVALID
 88_49719959_toecap_type,INVALID
 88_49729771_toecap_type,INVALID
-88_49729918_toecap_type,Abierta
+88_49729918_toecap_type,Redonda
 88_49724176_toecap_type,INVALID
 88_49719999_toecap_type,INVALID
 88_49735322_toecap_type,INVALID
@@ -5086,7 +5086,7 @@ test_id,des_value
 88_49718147_toecap_type,INVALID
 88_49723055_toecap_type,INVALID
 88_49729131_toecap_type,INVALID
-88_49722035_toecap_type,Redonda
+88_49722035_toecap_type,Cuadrada
 88_49712746_toecap_type,INVALID
 88_49710900_toecap_type,INVALID
 88_49711012_toecap_type,INVALID
@@ -5094,7 +5094,7 @@ test_id,des_value
 88_49706784_toecap_type,INVALID
 88_49729933_toecap_type,INVALID
 88_49724619_toecap_type,INVALID
-88_49705106_toecap_type,INVALID
+88_49705106_toecap_type,Con punta
 88_49725778_toecap_type,INVALID
 88_49710965_toecap_type,INVALID
 88_49713092_toecap_type,INVALID
@@ -5105,7 +5105,7 @@ test_id,des_value
 88_49709714_toecap_type,INVALID
 88_49708300_toecap_type,INVALID
 88_49710458_toecap_type,INVALID
-88_49718845_toecap_type,Redonda
+88_49718845_toecap_type,Con punta
 88_49723254_toecap_type,INVALID
 88_49715770_toecap_type,INVALID
 88_49711095_toecap_type,INVALID
@@ -5114,7 +5114,7 @@ test_id,des_value
 88_49725641_toecap_type,INVALID
 88_49715901_toecap_type,INVALID
 88_49711057_toecap_type,INVALID
-88_49722208_toecap_type,Cuadrada
+88_49722208_toecap_type,Con punta
 88_49719676_toecap_type,INVALID
 88_49731351_toecap_type,INVALID
 88_49717893_toecap_type,INVALID
@@ -5127,7 +5127,7 @@ test_id,des_value
 88_49710903_toecap_type,INVALID
 88_49714361_toecap_type,INVALID
 88_49706791_toecap_type,Redonda
-88_49708526_toecap_type,INVALID
+88_49708526_toecap_type,Redonda
 88_49732280_toecap_type,INVALID
 88_49724923_toecap_type,INVALID
 88_49722744_toecap_type,INVALID
@@ -5138,7 +5138,7 @@ test_id,des_value
 88_49715153_toecap_type,INVALID
 88_49707294_toecap_type,INVALID
 88_49731329_toecap_type,INVALID
-88_49720702_toecap_type,Redonda
+88_49720702_toecap_type,Cuadrada
 88_49742563_toecap_type,INVALID
 88_49711182_toecap_type,INVALID
 88_49709423_toecap_type,INVALID
@@ -5159,7 +5159,7 @@ test_id,des_value
 88_49718101_toecap_type,INVALID
 88_49720847_toecap_type,INVALID
 88_49712592_toecap_type,INVALID
-88_49706780_toecap_type,Redonda
+88_49706780_toecap_type,INVALID
 88_49730267_toecap_type,INVALID
 88_49732672_toecap_type,INVALID
 88_49716818_toecap_type,INVALID
@@ -5174,7 +5174,7 @@ test_id,des_value
 88_49713435_toecap_type,INVALID
 88_49711049_toecap_type,INVALID
 88_49727081_toecap_type,INVALID
-88_49717706_toecap_type,Redonda
+88_49717706_toecap_type,INVALID
 88_49727602_toecap_type,INVALID
 88_49728194_toecap_type,INVALID
 88_49731419_toecap_type,INVALID
@@ -5185,7 +5185,7 @@ test_id,des_value
 88_49715359_toecap_type,INVALID
 88_49723259_toecap_type,INVALID
 88_49717423_toecap_type,INVALID
-88_49722026_toecap_type,Abierta
+88_49722026_toecap_type,Redonda
 88_49724244_toecap_type,INVALID
 88_49719342_toecap_type,INVALID
 88_49709831_toecap_type,INVALID
@@ -5198,7 +5198,7 @@ test_id,des_value
 88_49724257_toecap_type,INVALID
 88_49709847_toecap_type,INVALID
 88_49727764_toecap_type,INVALID
-88_49725794_toecap_type,Cuadrada
+88_49725794_toecap_type,Redonda
 88_49710918_toecap_type,INVALID
 88_49714921_toecap_type,INVALID
 88_49713375_toecap_type,INVALID
@@ -5212,7 +5212,7 @@ test_id,des_value
 88_49717978_toecap_type,INVALID
 88_49726631_toecap_type,INVALID
 88_49727311_toecap_type,INVALID
-88_49713024_toecap_type,Abierta
+88_49713024_toecap_type,Redonda
 88_49706229_toecap_type,INVALID
 88_49723839_toecap_type,INVALID
 88_49722653_toecap_type,INVALID
@@ -5229,7 +5229,7 @@ test_id,des_value
 88_49732113_toecap_type,INVALID
 88_49724256_toecap_type,INVALID
 88_49725173_toecap_type,INVALID
-88_49708354_toecap_type,Redonda
+88_49708354_toecap_type,Con punta
 88_49715636_toecap_type,INVALID
 88_49728494_toecap_type,INVALID
 88_49728725_toecap_type,INVALID
@@ -5300,7 +5300,7 @@ test_id,des_value
 88_49721718_toecap_type,INVALID
 88_49707518_toecap_type,INVALID
 88_49728692_toecap_type,INVALID
-88_49708359_toecap_type,INVALID
+88_49708359_toecap_type,Redonda
 88_49713587_toecap_type,INVALID
 88_49730474_toecap_type,INVALID
 88_49727098_toecap_type,INVALID
@@ -5312,7 +5312,7 @@ test_id,des_value
 88_49719094_toecap_type,INVALID
 88_49716391_toecap_type,INVALID
 88_49728901_toecap_type,INVALID
-88_49733151_toecap_type,Cuadrada
+88_49733151_toecap_type,Redonda
 88_49719821_toecap_type,INVALID
 88_49718630_toecap_type,INVALID
 88_49719977_toecap_type,INVALID
@@ -5343,7 +5343,7 @@ test_id,des_value
 88_49729852_toecap_type,INVALID
 88_49719993_toecap_type,INVALID
 88_49718198_toecap_type,INVALID
-88_49722449_toecap_type,Abierta
+88_49722449_toecap_type,Con punta
 88_49713088_toecap_type,INVALID
 88_49716103_toecap_type,INVALID
 88_49723154_toecap_type,INVALID
@@ -5374,7 +5374,7 @@ test_id,des_value
 88_49714088_toecap_type,INVALID
 88_49708546_toecap_type,INVALID
 88_49703733_toecap_type,Con punta
-88_49711113_toecap_type,Redonda
+88_49711113_toecap_type,INVALID
 88_49714097_toecap_type,INVALID
 88_49712395_toecap_type,INVALID
 88_49730258_toecap_type,INVALID
@@ -5436,7 +5436,7 @@ test_id,des_value
 88_49724268_toecap_type,INVALID
 88_49722700_toecap_type,INVALID
 88_49713796_toecap_type,INVALID
-88_49720304_toecap_type,Redonda
+88_49720304_toecap_type,Cuadrada
 88_49707259_toecap_type,INVALID
 88_49713361_toecap_type,Redonda
 88_49721972_toecap_type,INVALID
@@ -5455,7 +5455,7 @@ test_id,des_value
 88_49733155_toecap_type,INVALID
 88_49729772_toecap_type,INVALID
 88_49723890_toecap_type,INVALID
-88_49719000_toecap_type,Cuadrada
+88_49719000_toecap_type,Abierta
 88_49726155_toecap_type,INVALID
 88_49718785_toecap_type,INVALID
 88_49734602_toecap_type,INVALID
@@ -5470,7 +5470,7 @@ test_id,des_value
 88_49713393_toecap_type,Redonda
 88_49730272_toecap_type,INVALID
 88_49728698_toecap_type,INVALID
-88_49709716_toecap_type,INVALID
+88_49709716_toecap_type,Cuadrada
 88_49733667_toecap_type,INVALID
 88_49723050_toecap_type,INVALID
 88_49720048_toecap_type,INVALID
@@ -5494,8 +5494,8 @@ test_id,des_value
 88_49711359_toecap_type,INVALID
 88_49717021_toecap_type,INVALID
 88_49724632_toecap_type,INVALID
-88_49733688_toecap_type,Con punta
-88_49728139_toecap_type,Con punta
+88_49733688_toecap_type,Redonda
+88_49728139_toecap_type,Redonda
 88_49732371_toecap_type,INVALID
 88_49737139_toecap_type,INVALID
 88_49734844_toecap_type,INVALID
@@ -5540,7 +5540,7 @@ test_id,des_value
 88_49709580_toecap_type,INVALID
 88_49715510_toecap_type,INVALID
 88_49718191_toecap_type,INVALID
-88_49708337_toecap_type,Cuadrada
+88_49708337_toecap_type,Redonda
 88_49722480_toecap_type,INVALID
 88_49711130_toecap_type,INVALID
 88_49713764_toecap_type,INVALID
@@ -5620,7 +5620,7 @@ test_id,des_value
 88_49711164_toecap_type,INVALID
 88_49732363_toecap_type,INVALID
 88_49722596_toecap_type,INVALID
-88_49709721_toecap_type,Redonda
+88_49709721_toecap_type,INVALID
 88_49721774_toecap_type,INVALID
 88_49710885_toecap_type,INVALID
 88_49724597_toecap_type,INVALID
@@ -5647,7 +5647,7 @@ test_id,des_value
 88_49722097_toecap_type,INVALID
 88_49715165_toecap_type,INVALID
 88_49723146_toecap_type,INVALID
-88_49724888_toecap_type,Redonda
+88_49724888_toecap_type,INVALID
 88_49717884_toecap_type,INVALID
 88_49729331_toecap_type,INVALID
 88_49731378_toecap_type,INVALID
@@ -5664,12 +5664,12 @@ test_id,des_value
 88_49719680_toecap_type,INVALID
 88_49724620_toecap_type,INVALID
 88_49711165_toecap_type,INVALID
-88_49712030_toecap_type,Abierta
+88_49712030_toecap_type,Con punta
 88_49715187_toecap_type,INVALID
 88_49717741_toecap_type,INVALID
 88_49724222_toecap_type,INVALID
 88_49722988_toecap_type,INVALID
-88_49732661_toecap_type,Abierta
+88_49732661_toecap_type,Redonda
 88_49720004_toecap_type,INVALID
 88_49728626_toecap_type,INVALID
 88_49711175_toecap_type,INVALID
@@ -5678,14 +5678,14 @@ test_id,des_value
 88_49727531_toecap_type,INVALID
 88_49730857_toecap_type,INVALID
 88_49715896_toecap_type,INVALID
-88_49706082_toecap_type,Con punta
+88_49706082_toecap_type,Redonda
 88_49709881_toecap_type,INVALID
 88_49723587_toecap_type,INVALID
 88_49731807_toecap_type,INVALID
 88_49721722_toecap_type,INVALID
 88_49713793_toecap_type,INVALID
 88_49720817_toecap_type,INVALID
-88_49720296_toecap_type,Cuadrada
+88_49720296_toecap_type,Redonda
 88_49728184_toecap_type,INVALID
 88_49710446_toecap_type,INVALID
 88_49715178_toecap_type,INVALID
@@ -5699,7 +5699,7 @@ test_id,des_value
 88_49714907_toecap_type,INVALID
 88_49725584_toecap_type,INVALID
 88_49724226_toecap_type,INVALID
-88_49708915_toecap_type,Redonda
+88_49708915_toecap_type,Cuadrada
 88_49724271_toecap_type,INVALID
 88_49733477_toecap_type,INVALID
 88_49731859_toecap_type,INVALID
@@ -5718,7 +5718,7 @@ test_id,des_value
 88_49710959_toecap_type,INVALID
 88_49713801_toecap_type,INVALID
 88_49724225_toecap_type,INVALID
-88_49712242_toecap_type,Abierta
+88_49712242_toecap_type,Cuadrada
 88_49722042_toecap_type,INVALID
 88_49715168_toecap_type,INVALID
 88_49722651_toecap_type,INVALID
@@ -5742,7 +5742,7 @@ test_id,des_value
 88_49725228_toecap_type,INVALID
 88_49707527_toecap_type,INVALID
 88_49724558_toecap_type,INVALID
-88_49718808_toecap_type,Redonda
+88_49718808_toecap_type,Abierta
 88_49721126_toecap_type,INVALID
 88_49710938_toecap_type,INVALID
 88_49710910_toecap_type,INVALID
@@ -5758,19 +5758,19 @@ test_id,des_value
 88_49717060_toecap_type,INVALID
 88_49721144_toecap_type,INVALID
 88_49713838_toecap_type,INVALID
-88_49710497_toecap_type,Redonda
+88_49710497_toecap_type,Con punta
 88_49716509_toecap_type,INVALID
 88_49718186_toecap_type,INVALID
 88_49712360_toecap_type,INVALID
 88_49727736_toecap_type,INVALID
 88_49715667_toecap_type,INVALID
-88_49718864_toecap_type,Con punta
+88_49718864_toecap_type,Redonda
 88_49725766_toecap_type,INVALID
 88_49722219_toecap_type,INVALID
 88_49713043_toecap_type,INVALID
 88_49723252_toecap_type,INVALID
 88_49733651_toecap_type,INVALID
-88_49710286_toecap_type,Con punta
+88_49710286_toecap_type,INVALID
 88_49707239_toecap_type,INVALID
 88_49733133_toecap_type,INVALID
 88_49730854_toecap_type,INVALID
@@ -5784,13 +5784,13 @@ test_id,des_value
 88_49710930_toecap_type,INVALID
 88_49713598_toecap_type,INVALID
 88_49719685_toecap_type,INVALID
-88_49717847_toecap_type,INVALID
+88_49717847_toecap_type,Redonda
 88_49714029_toecap_type,INVALID
 88_49719391_toecap_type,INVALID
 88_49718994_toecap_type,INVALID
 88_49719840_toecap_type,INVALID
 88_49721149_toecap_type,INVALID
-88_49718858_toecap_type,Redonda
+88_49718858_toecap_type,Cuadrada
 88_49711073_toecap_type,INVALID
 88_49712727_toecap_type,INVALID
 88_49718638_toecap_type,INVALID
@@ -5826,7 +5826,7 @@ test_id,des_value
 88_49727350_toecap_type,INVALID
 88_49715203_toecap_type,INVALID
 88_49726154_toecap_type,INVALID
-88_49708336_toecap_type,Con punta
+88_49708336_toecap_type,Cuadrada
 88_49732288_toecap_type,INVALID
 88_49729936_toecap_type,INVALID
 88_49713376_toecap_type,INVALID
@@ -5834,7 +5834,7 @@ test_id,des_value
 88_49732361_toecap_type,INVALID
 88_49731710_toecap_type,INVALID
 88_49710896_toecap_type,INVALID
-88_49727048_toecap_type,Abierta
+88_49727048_toecap_type,Redonda
 88_49714693_toecap_type,INVALID
 88_49722223_toecap_type,INVALID
 88_49719408_toecap_type,INVALID
@@ -5891,19 +5891,19 @@ test_id,des_value
 88_49731855_toecap_type,INVALID
 88_49709590_toecap_type,INVALID
 88_49717420_toecap_type,INVALID
-88_49717885_toecap_type,Cuadrada
+88_49717885_toecap_type,Con punta
 88_49715196_toecap_type,INVALID
 88_49711206_toecap_type,INVALID
 88_49727044_toecap_type,INVALID
 88_49709868_toecap_type,INVALID
 88_49711342_toecap_type,INVALID
-88_49724073_toecap_type,Cuadrada
+88_49724073_toecap_type,Redonda
 88_49711138_toecap_type,INVALID
 88_49714695_toecap_type,INVALID
 88_49715475_toecap_type,INVALID
 88_49710897_toecap_type,INVALID
 88_49726828_toecap_type,INVALID
-88_49704976_toecap_type,Con punta
+88_49704976_toecap_type,Redonda
 88_49710978_toecap_type,INVALID
 88_49724925_toecap_type,Redonda
 88_49731301_toecap_type,INVALID
@@ -5918,7 +5918,7 @@ test_id,des_value
 88_49709833_toecap_type,INVALID
 88_49723238_toecap_type,INVALID
 88_49708557_toecap_type,INVALID
-88_49706792_toecap_type,Redonda
+88_49706792_toecap_type,Con punta
 88_49734575_toecap_type,INVALID
 88_49728200_toecap_type,INVALID
 88_49714711_toecap_type,INVALID
@@ -5931,7 +5931,7 @@ test_id,des_value
 88_49718840_toecap_type,INVALID
 88_49714013_toecap_type,INVALID
 88_49720070_toecap_type,INVALID
-88_49720337_toecap_type,Con punta
+88_49720337_toecap_type,Cuadrada
 88_49719953_toecap_type,INVALID
 88_49729931_toecap_type,INVALID
 88_49723325_toecap_type,INVALID
@@ -5942,7 +5942,7 @@ test_id,des_value
 88_49711830_toecap_type,INVALID
 88_49717009_toecap_type,INVALID
 88_49708373_toecap_type,INVALID
-88_49715324_toecap_type,Cuadrada
+88_49715324_toecap_type,Redonda
 88_49729510_toecap_type,Abierta
 88_49711167_toecap_type,INVALID
 88_49721711_toecap_type,INVALID
@@ -5954,7 +5954,7 @@ test_id,des_value
 88_49727372_toecap_type,INVALID
 88_49728483_toecap_type,INVALID
 88_49726870_toecap_type,INVALID
-88_49708335_toecap_type,Redonda
+88_49708335_toecap_type,Cuadrada
 88_49711375_toecap_type,INVALID
 88_49733130_toecap_type,INVALID
 88_49722707_toecap_type,INVALID
@@ -5963,10 +5963,10 @@ test_id,des_value
 88_49728486_toecap_type,INVALID
 88_49728705_toecap_type,INVALID
 88_49711193_toecap_type,INVALID
-88_49725208_toecap_type,INVALID
+88_49725208_toecap_type,Redonda
 88_49715339_toecap_type,INVALID
 88_49714042_toecap_type,INVALID
-88_49726182_toecap_type,Abierta
+88_49726182_toecap_type,INVALID
 88_49719311_toecap_type,INVALID
 88_49727359_toecap_type,Redonda
 88_49731416_toecap_type,INVALID
@@ -5980,7 +5980,7 @@ test_id,des_value
 88_49717058_toecap_type,INVALID
 88_49731398_toecap_type,INVALID
 88_49711619_toecap_type,INVALID
-88_49708353_toecap_type,Redonda
+88_49708353_toecap_type,Con punta
 88_49724650_toecap_type,INVALID
 88_49710191_toecap_type,INVALID
 88_49721112_toecap_type,INVALID
@@ -5989,7 +5989,7 @@ test_id,des_value
 88_49707266_toecap_type,INVALID
 88_49722463_toecap_type,INVALID
 88_49717963_toecap_type,INVALID
-88_49723520_toecap_type,Abierta
+88_49723520_toecap_type,Redonda
 88_49716400_toecap_type,INVALID
 88_49723062_toecap_type,INVALID
 88_49733464_toecap_type,INVALID
@@ -6014,14 +6014,14 @@ test_id,des_value
 88_49727746_toecap_type,INVALID
 88_49735306_toecap_type,INVALID
 88_49726845_toecap_type,INVALID
-88_49708041_toecap_type,Cuadrada
+88_49708041_toecap_type,Con punta
 88_49734857_toecap_type,INVALID
 88_49718183_toecap_type,INVALID
 88_49720015_toecap_type,INVALID
 88_49721713_toecap_type,INVALID
 88_49728530_toecap_type,INVALID
 88_49713344_toecap_type,INVALID
-88_49729146_toecap_type,INVALID
+88_49729146_toecap_type,Redonda
 88_49720712_toecap_type,INVALID
 88_49708540_toecap_type,INVALID
 88_49726100_toecap_type,Redonda
@@ -6043,7 +6043,7 @@ test_id,des_value
 88_49725568_toecap_type,INVALID
 88_49724214_toecap_type,INVALID
 88_49712554_toecap_type,INVALID
-88_49724203_toecap_type,Redonda
+88_49724203_toecap_type,Abierta
 88_49717048_toecap_type,INVALID
 88_49719393_toecap_type,INVALID
 88_49722458_toecap_type,INVALID
@@ -6068,7 +6068,7 @@ test_id,des_value
 88_49730889_toecap_type,INVALID
 88_49720301_toecap_type,INVALID
 88_49722964_toecap_type,INVALID
-88_49717023_toecap_type,Redonda
+88_49717023_toecap_type,Cuadrada
 88_49731862_toecap_type,INVALID
 88_49727358_toecap_type,Redonda
 88_49736186_toecap_type,INVALID
@@ -6086,7 +6086,7 @@ test_id,des_value
 88_49727802_toecap_type,INVALID
 88_49719812_toecap_type,INVALID
 88_49725360_toecap_type,INVALID
-88_49718802_toecap_type,Redonda
+88_49718802_toecap_type,INVALID
 88_49733127_toecap_type,INVALID
 88_49724282_toecap_type,INVALID
 88_49713966_toecap_type,INVALID
@@ -6098,7 +6098,7 @@ test_id,des_value
 88_49731359_toecap_type,INVALID
 88_49714100_toecap_type,INVALID
 88_49722987_toecap_type,INVALID
-88_49723195_toecap_type,Cuadrada
+88_49723195_toecap_type,Redonda
 88_49715155_toecap_type,INVALID
 88_49729758_toecap_type,INVALID
 88_49710941_toecap_type,INVALID
@@ -6111,7 +6111,7 @@ test_id,des_value
 88_49711121_toecap_type,INVALID
 88_49717415_toecap_type,INVALID
 88_49714035_toecap_type,INVALID
-88_49730881_toecap_type,INVALID
+88_49730881_toecap_type,Redonda
 88_49717708_toecap_type,INVALID
 88_49720839_toecap_type,INVALID
 88_49727558_toecap_type,Redonda
@@ -6132,7 +6132,7 @@ test_id,des_value
 88_49712562_toecap_type,INVALID
 88_49731717_toecap_type,INVALID
 88_49734457_toecap_type,Redonda
-88_49705111_toecap_type,Redonda
+88_49705111_toecap_type,Con punta
 88_49729859_toecap_type,INVALID
 88_49707517_toecap_type,INVALID
 88_49728912_toecap_type,INVALID
@@ -6155,7 +6155,7 @@ test_id,des_value
 88_49718177_toecap_type,INVALID
 88_49724594_toecap_type,INVALID
 88_49710639_toecap_type,INVALID
-88_49718857_toecap_type,Redonda
+88_49718857_toecap_type,Cuadrada
 88_49712215_toecap_type,INVALID
 88_49723537_toecap_type,INVALID
 88_49722515_toecap_type,INVALID
@@ -6165,12 +6165,12 @@ test_id,des_value
 88_49734555_toecap_type,INVALID
 88_49729337_toecap_type,INVALID
 88_49730998_toecap_type,INVALID
-88_49721687_toecap_type,Redonda
+88_49721687_toecap_type,Cuadrada
 88_49719906_toecap_type,INVALID
 88_49717017_toecap_type,INVALID
 88_49719137_toecap_type,INVALID
 88_49714689_toecap_type,INVALID
-88_49731420_toecap_type,INVALID
+88_49731420_toecap_type,Redonda
 88_49712729_toecap_type,INVALID
 88_49712710_toecap_type,INVALID
 88_49724272_toecap_type,INVALID
@@ -6194,7 +6194,7 @@ test_id,des_value
 88_49707242_toecap_type,INVALID
 88_49712057_toecap_type,INVALID
 88_49724628_toecap_type,INVALID
-88_49733124_toecap_type,Con punta
+88_49733124_toecap_type,Cuadrada
 88_49712044_toecap_type,INVALID
 88_49711081_toecap_type,INVALID
 88_49721464_toecap_type,Redonda
@@ -6218,7 +6218,7 @@ test_id,des_value
 88_49715050_toecap_type,INVALID
 88_49734600_toecap_type,INVALID
 88_49730862_toecap_type,INVALID
-88_49718995_toecap_type,Con punta
+88_49718995_toecap_type,Cuadrada
 88_49710190_toecap_type,INVALID
 88_49718608_toecap_type,INVALID
 88_49733662_toecap_type,INVALID
@@ -6271,7 +6271,7 @@ test_id,des_value
 88_49719006_toecap_type,INVALID
 88_49727629_toecap_type,INVALID
 88_49727730_toecap_type,INVALID
-88_49717269_toecap_type,Redonda
+88_49717269_toecap_type,Con punta
 88_49711345_toecap_type,INVALID
 88_49729950_toecap_type,INVALID
 88_49713019_toecap_type,INVALID
@@ -6285,7 +6285,7 @@ test_id,des_value
 88_49724635_toecap_type,INVALID
 88_49713110_toecap_type,INVALID
 88_49717836_toecap_type,INVALID
-88_49708364_toecap_type,Con punta
+88_49708364_toecap_type,Redonda
 88_49717052_toecap_type,INVALID
 88_49714742_toecap_type,INVALID
 88_49719343_toecap_type,INVALID
@@ -6293,7 +6293,7 @@ test_id,des_value
 88_49715147_toecap_type,INVALID
 88_49718207_toecap_type,INVALID
 88_49730482_toecap_type,INVALID
-88_49717531_toecap_type,Cuadrada
+88_49717531_toecap_type,INVALID
 88_49727051_toecap_type,INVALID
 88_49710878_toecap_type,INVALID
 88_49717059_toecap_type,INVALID
@@ -6320,7 +6320,7 @@ test_id,des_value
 88_49720804_toecap_type,INVALID
 88_49727295_toecap_type,INVALID
 88_49717010_toecap_type,INVALID
-88_49706438_toecap_type,Cuadrada
+88_49706438_toecap_type,Redonda
 88_49719934_toecap_type,INVALID
 88_49707286_toecap_type,INVALID
 88_49713770_toecap_type,INVALID
@@ -6334,14 +6334,14 @@ test_id,des_value
 88_49713916_toecap_type,INVALID
 88_49717846_toecap_type,INVALID
 88_49721429_toecap_type,Abierta
-88_49712718_toecap_type,Cuadrada
-88_49719123_toecap_type,Cuadrada
+88_49712718_toecap_type,Redonda
+88_49719123_toecap_type,INVALID
 88_49722683_toecap_type,INVALID
 88_49723145_toecap_type,INVALID
 88_49703563_toecap_type,Redonda
 88_49715186_toecap_type,INVALID
 88_49719275_toecap_type,INVALID
-88_49713341_toecap_type,Cuadrada
+88_49713341_toecap_type,Redonda
 88_49733457_toecap_type,INVALID
 88_49721152_toecap_type,INVALID
 88_49718850_toecap_type,INVALID
@@ -6356,12 +6356,12 @@ test_id,des_value
 88_49713108_toecap_type,INVALID
 88_49723027_toecap_type,INVALID
 88_49731708_toecap_type,INVALID
-88_49723017_toecap_type,Abierta
-88_49718167_toecap_type,Redonda
+88_49723017_toecap_type,Redonda
+88_49718167_toecap_type,Cuadrada
 88_49726866_toecap_type,INVALID
 88_49707267_toecap_type,INVALID
 88_49720914_toecap_type,INVALID
-88_49725390_toecap_type,Abierta
+88_49725390_toecap_type,Redonda
 88_49720029_toecap_type,INVALID
 88_49733686_toecap_type,INVALID
 88_49711136_toecap_type,INVALID
@@ -6397,7 +6397,7 @@ test_id,des_value
 88_49728669_toecap_type,INVALID
 88_49724890_toecap_type,INVALID
 88_49725229_toecap_type,INVALID
-88_49720764_toecap_type,INVALID
+88_49720764_toecap_type,Abierta
 88_49722233_toecap_type,INVALID
 88_49723025_toecap_type,INVALID
 88_49718441_toecap_type,INVALID
@@ -6415,7 +6415,7 @@ test_id,des_value
 88_49717036_toecap_type,INVALID
 88_49725586_toecap_type,INVALID
 88_49715515_toecap_type,INVALID
-88_49722242_toecap_type,Con punta
+88_49722242_toecap_type,Cuadrada
 88_49718986_toecap_type,INVALID
 88_49716837_toecap_type,INVALID
 88_49721372_toecap_type,Abierta
@@ -6430,7 +6430,7 @@ test_id,des_value
 88_49733968_toecap_type,INVALID
 88_49727507_toecap_type,INVALID
 88_49708319_toecap_type,INVALID
-88_49719422_toecap_type,Redonda
+88_49719422_toecap_type,INVALID
 88_49731299_toecap_type,INVALID
 88_49718108_toecap_type,INVALID
 88_49715639_toecap_type,INVALID
@@ -6440,13 +6440,13 @@ test_id,des_value
 88_49729152_toecap_type,Redonda
 88_49719800_toecap_type,INVALID
 88_49718621_toecap_type,INVALID
-88_49717728_toecap_type,Con punta
+88_49717728_toecap_type,Cuadrada
 88_49724139_toecap_type,Cuadrada
 88_49725177_toecap_type,INVALID
 88_49711330_toecap_type,INVALID
 88_49731275_toecap_type,INVALID
 88_49713628_toecap_type,INVALID
-88_49713358_toecap_type,INVALID
+88_49713358_toecap_type,Redonda
 88_49709829_toecap_type,INVALID
 88_49727790_toecap_type,INVALID
 88_49717323_toecap_type,INVALID
@@ -6464,7 +6464,7 @@ test_id,des_value
 88_49718137_toecap_type,INVALID
 88_49732973_toecap_type,INVALID
 88_49712732_toecap_type,INVALID
-88_49722057_toecap_type,INVALID
+88_49722057_toecap_type,Redonda
 88_49714008_toecap_type,INVALID
 88_49722759_toecap_type,INVALID
 88_49715040_toecap_type,INVALID

@@ -1,3 +1,5 @@
+import io
+
 import requests
 import streamlit as st
 from PIL import Image
@@ -35,20 +37,25 @@ if c is not None:
 try:
     if uploaded_files:
         images = [file for file in uploaded_files]
-        i = 0
         for photo in images:
             image = Image.open(photo)
-            if (photo == c):
-                k = image.size
-                box = (k[0] / 2 - 120, k[1] / 2 - 168, k[0] / 2 + 120, k[1] / 2 + 168)
-                image = image.crop(box).resize((160, 224))
             col1, col2 = st.columns([1, 2])
 
             with col1:
+                if photo == c:
+                    k = image.size
+                    box = (k[0] / 2 - 120, k[1] / 2 - 168, k[0] / 2 + 120, k[1] / 2 + 168)
+                    image = image.crop(box).resize((480, 672))
                 st.image(image, caption=photo.name, use_container_width=True)
 
             with col2:
-                analysis = analyze_image(photo.name)
+                if c is not None:
+                    imggg = Image.open(io.BytesIO(c.getvalue()))
+                    imggg.save('../../captured_photo.jpg')
+
+                    analysis = analyze_image('../../../captured_photo.jpg')
+                else:
+                    analysis = analyze_image(photo.name)
                 col3, col4 = st.columns([2, 1])
 
                 with col3:

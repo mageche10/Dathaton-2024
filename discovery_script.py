@@ -8,7 +8,6 @@ def get_invalid_pairs():
     types = pr_df["des_product_type"].unique()
 
     print(attrs)
-    print(types)
 
     tdict = {}
     adict={}
@@ -36,7 +35,5 @@ def get_invalid_pairs():
     return pairs
 
 p = get_invalid_pairs()
-print(p)
-
 
 

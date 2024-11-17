@@ -47,7 +47,7 @@ def get_invalid_pairs():
     return pairs
 
 pairs = get_invalid_pairs()
-attributes = ["sleeve_length_type", "toecap_type", "waist_type", "closure_placement", "cane_height_type"]
+attributes = ["heel_shape_type", "length_type", "sleeve_length_type", "toecap_type"]
 models = {}
 
 for attr in attributes:
@@ -56,7 +56,7 @@ for attr in attributes:
 prediction_dir = "./data/images/images_test/"
 images = os.listdir(prediction_dir)
 test_df = pd.read_csv("./data/test_data.csv")
-red_factor = 4
+red_factor = 2
 predicting_columns = ["des_sex", "des_line", "des_fabric", "des_product_family", "des_product_type"]
 
 test_df[predicting_columns] = test_df[predicting_columns].astype("category")

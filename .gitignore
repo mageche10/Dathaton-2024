@@ -2,3 +2,6 @@ bin/
 include/
 lib/
 lib64/
+attribute_possible_values.xlsx
+possible_product_types.xlsx
+captured_photo.jpg

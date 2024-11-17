@@ -1,27 +1,27 @@
 test_id,des_value
-88_49703563_heel_shape_type,De aguja
+88_49703563_heel_shape_type,Trompeta
 88_49703733_heel_shape_type,De aguja
 88_49704219_heel_shape_type,Plano
-88_49704220_heel_shape_type,Embudo
+88_49704220_heel_shape_type,De aguja
 88_49704445_heel_shape_type,Plano
-88_49704446_heel_shape_type,De aguja
-88_49704976_heel_shape_type,De aguja
-88_49704977_heel_shape_type,Bloque
-88_49704978_heel_shape_type,Rectangular
-88_49705105_heel_shape_type,Kitten
+88_49704446_heel_shape_type,Bloque
+88_49704976_heel_shape_type,Plano
+88_49704977_heel_shape_type,Plano
+88_49704978_heel_shape_type,Plano
+88_49705105_heel_shape_type,Bloque
 88_49705106_heel_shape_type,Plano
-88_49705107_heel_shape_type,Plano
-88_49705108_heel_shape_type,Plataforma plana
-88_49705109_heel_shape_type,Cuña
+88_49705107_heel_shape_type,INVALID
+88_49705108_heel_shape_type,Plano
+88_49705109_heel_shape_type,Plano
 88_49705110_heel_shape_type,Bloque
-88_49705111_heel_shape_type,Bloque
+88_49705111_heel_shape_type,Rectangular
 88_49705112_heel_shape_type,INVALID
-88_49705113_heel_shape_type,De aguja
-88_49705285_heel_shape_type,Cuña
-88_49705286_heel_shape_type,INVALID
+88_49705113_heel_shape_type,Plataforma
+88_49705285_heel_shape_type,INVALID
+88_49705286_heel_shape_type,De aguja
 88_49705287_heel_shape_type,Plano
-88_49705288_heel_shape_type,INVALID
-88_49705289_heel_shape_type,Kitten
+88_49705288_heel_shape_type,Plano
+88_49705289_heel_shape_type,Plano
 88_49705527_heel_shape_type,INVALID
 88_49705528_heel_shape_type,INVALID
 88_49705918_heel_shape_type,INVALID
@@ -36,7 +36,7 @@ test_id,des_value
 88_49706079_heel_shape_type,INVALID
 88_49706080_heel_shape_type,INVALID
 88_49706081_heel_shape_type,INVALID
-88_49706082_heel_shape_type,Rectangular
+88_49706082_heel_shape_type,De aguja
 88_49706083_heel_shape_type,INVALID
 88_49706084_heel_shape_type,Plano
 88_49706223_heel_shape_type,INVALID
@@ -67,18 +67,18 @@ test_id,des_value
 88_49706425_heel_shape_type,Plano
 88_49706430_heel_shape_type,INVALID
 88_49706431_heel_shape_type,INVALID
-88_49706437_heel_shape_type,Bloque
-88_49706438_heel_shape_type,Embudo
+88_49706437_heel_shape_type,Plano
+88_49706438_heel_shape_type,Plano
 88_49706772_heel_shape_type,Plano
 88_49706780_heel_shape_type,INVALID
 88_49706781_heel_shape_type,INVALID
 88_49706783_heel_shape_type,INVALID
-88_49706784_heel_shape_type,INVALID
-88_49706785_heel_shape_type,Plano
+88_49706784_heel_shape_type,Plano
+88_49706785_heel_shape_type,INVALID
 88_49706786_heel_shape_type,INVALID
 88_49706787_heel_shape_type,INVALID
-88_49706791_heel_shape_type,Plataforma plana
-88_49706792_heel_shape_type,Bloque
+88_49706791_heel_shape_type,Plano
+88_49706792_heel_shape_type,Plano
 88_49706903_heel_shape_type,INVALID
 88_49706904_heel_shape_type,INVALID
 88_49706905_heel_shape_type,INVALID
@@ -140,16 +140,16 @@ test_id,des_value
 88_49707278_heel_shape_type,INVALID
 88_49707279_heel_shape_type,INVALID
 88_49707280_heel_shape_type,INVALID
-88_49707281_heel_shape_type,Kitten
-88_49707282_heel_shape_type,Embudo
+88_49707281_heel_shape_type,Plano
+88_49707282_heel_shape_type,Plano
 88_49707283_heel_shape_type,INVALID
 88_49707286_heel_shape_type,INVALID
 88_49707290_heel_shape_type,INVALID
 88_49707291_heel_shape_type,INVALID
 88_49707293_heel_shape_type,INVALID
 88_49707294_heel_shape_type,INVALID
-88_49707296_heel_shape_type,Bloque
-88_49707297_heel_shape_type,INVALID
+88_49707296_heel_shape_type,Plano
+88_49707297_heel_shape_type,Bloque
 88_49707300_heel_shape_type,INVALID
 88_49707517_heel_shape_type,INVALID
 88_49707518_heel_shape_type,INVALID
@@ -174,12 +174,12 @@ test_id,des_value
 88_49708016_heel_shape_type,INVALID
 88_49708019_heel_shape_type,INVALID
 88_49708020_heel_shape_type,Plano
-88_49708021_heel_shape_type,Plataforma
+88_49708021_heel_shape_type,Plano
 88_49708022_heel_shape_type,INVALID
 88_49708023_heel_shape_type,INVALID
 88_49708024_heel_shape_type,INVALID
 88_49708028_heel_shape_type,Plano
-88_49708029_heel_shape_type,De aguja
+88_49708029_heel_shape_type,Plano
 88_49708030_heel_shape_type,INVALID
 88_49708031_heel_shape_type,INVALID
 88_49708032_heel_shape_type,INVALID
@@ -188,9 +188,9 @@ test_id,des_value
 88_49708035_heel_shape_type,INVALID
 88_49708036_heel_shape_type,INVALID
 88_49708037_heel_shape_type,INVALID
-88_49708040_heel_shape_type,Plano
-88_49708041_heel_shape_type,Cuña
-88_49708042_heel_shape_type,De aguja
+88_49708040_heel_shape_type,Bloque
+88_49708041_heel_shape_type,Bloque
+88_49708042_heel_shape_type,Plano
 88_49708043_heel_shape_type,INVALID
 88_49708044_heel_shape_type,INVALID
 88_49708045_heel_shape_type,INVALID
@@ -219,7 +219,7 @@ test_id,des_value
 88_49708311_heel_shape_type,INVALID
 88_49708312_heel_shape_type,Plano
 88_49708313_heel_shape_type,INVALID
-88_49708314_heel_shape_type,De aguja
+88_49708314_heel_shape_type,Plano
 88_49708315_heel_shape_type,INVALID
 88_49708316_heel_shape_type,INVALID
 88_49708317_heel_shape_type,INVALID
@@ -231,10 +231,10 @@ test_id,des_value
 88_49708323_heel_shape_type,INVALID
 88_49708324_heel_shape_type,INVALID
 88_49708333_heel_shape_type,Kitten
-88_49708334_heel_shape_type,De aguja
-88_49708335_heel_shape_type,De aguja
-88_49708336_heel_shape_type,De aguja
-88_49708337_heel_shape_type,De aguja
+88_49708334_heel_shape_type,Plano
+88_49708335_heel_shape_type,Kitten
+88_49708336_heel_shape_type,Plano
+88_49708337_heel_shape_type,Plano
 88_49708338_heel_shape_type,INVALID
 88_49708339_heel_shape_type,INVALID
 88_49708340_heel_shape_type,INVALID
@@ -248,17 +248,17 @@ test_id,des_value
 88_49708349_heel_shape_type,INVALID
 88_49708350_heel_shape_type,INVALID
 88_49708351_heel_shape_type,INVALID
-88_49708352_heel_shape_type,Plano
+88_49708352_heel_shape_type,Plataforma
 88_49708353_heel_shape_type,Bloque
-88_49708354_heel_shape_type,Embudo
-88_49708355_heel_shape_type,Bloque
-88_49708356_heel_shape_type,Plano
+88_49708354_heel_shape_type,Plano
+88_49708355_heel_shape_type,Plano
+88_49708356_heel_shape_type,Plataforma
 88_49708357_heel_shape_type,Plano
-88_49708358_heel_shape_type,Plataforma
+88_49708358_heel_shape_type,Plano
 88_49708359_heel_shape_type,Plano
-88_49708360_heel_shape_type,INVALID
+88_49708360_heel_shape_type,Plano
 88_49708361_heel_shape_type,Plano
-88_49708364_heel_shape_type,Rectangular
+88_49708364_heel_shape_type,Bloque
 88_49708365_heel_shape_type,Plano
 88_49708366_heel_shape_type,INVALID
 88_49708367_heel_shape_type,Plano
@@ -284,7 +284,7 @@ test_id,des_value
 88_49708393_heel_shape_type,INVALID
 88_49708394_heel_shape_type,INVALID
 88_49708509_heel_shape_type,Plano
-88_49708510_heel_shape_type,Plano
+88_49708510_heel_shape_type,Cuña
 88_49708511_heel_shape_type,INVALID
 88_49708512_heel_shape_type,INVALID
 88_49708513_heel_shape_type,INVALID
@@ -294,7 +294,7 @@ test_id,des_value
 88_49708517_heel_shape_type,INVALID
 88_49708518_heel_shape_type,INVALID
 88_49708519_heel_shape_type,INVALID
-88_49708526_heel_shape_type,De aguja
+88_49708526_heel_shape_type,Plano
 88_49708527_heel_shape_type,De aguja
 88_49708530_heel_shape_type,INVALID
 88_49708533_heel_shape_type,INVALID
@@ -320,7 +320,7 @@ test_id,des_value
 88_49708676_heel_shape_type,INVALID
 88_49708678_heel_shape_type,INVALID
 88_49708684_heel_shape_type,Plano
-88_49708694_heel_shape_type,INVALID
+88_49708694_heel_shape_type,Rectangular
 88_49708697_heel_shape_type,INVALID
 88_49708907_heel_shape_type,INVALID
 88_49708912_heel_shape_type,Plano
@@ -332,7 +332,7 @@ test_id,des_value
 88_49708924_heel_shape_type,INVALID
 88_49708925_heel_shape_type,INVALID
 88_49709374_heel_shape_type,INVALID
-88_49709375_heel_shape_type,Plataforma
+88_49709375_heel_shape_type,Plano
 88_49709376_heel_shape_type,INVALID
 88_49709379_heel_shape_type,INVALID
 88_49709380_heel_shape_type,INVALID
@@ -342,9 +342,9 @@ test_id,des_value
 88_49709389_heel_shape_type,INVALID
 88_49709392_heel_shape_type,INVALID
 88_49709400_heel_shape_type,INVALID
-88_49709403_heel_shape_type,INVALID
+88_49709403_heel_shape_type,Plano
 88_49709404_heel_shape_type,INVALID
-88_49709405_heel_shape_type,Plano
+88_49709405_heel_shape_type,Bloque
 88_49709419_heel_shape_type,INVALID
 88_49709421_heel_shape_type,INVALID
 88_49709422_heel_shape_type,INVALID
@@ -376,7 +376,7 @@ test_id,des_value
 88_49709579_heel_shape_type,INVALID
 88_49709580_heel_shape_type,INVALID
 88_49709581_heel_shape_type,INVALID
-88_49709585_heel_shape_type,Plataforma
+88_49709585_heel_shape_type,Plano
 88_49709586_heel_shape_type,INVALID
 88_49709589_heel_shape_type,INVALID
 88_49709590_heel_shape_type,INVALID
@@ -395,9 +395,9 @@ test_id,des_value
 88_49709709_heel_shape_type,INVALID
 88_49709714_heel_shape_type,INVALID
 88_49709716_heel_shape_type,Bloque
-88_49709719_heel_shape_type,INVALID
-88_49709720_heel_shape_type,De aguja
-88_49709721_heel_shape_type,INVALID
+88_49709719_heel_shape_type,De aguja
+88_49709720_heel_shape_type,INVALID
+88_49709721_heel_shape_type,Plano
 88_49709724_heel_shape_type,INVALID
 88_49709725_heel_shape_type,INVALID
 88_49709797_heel_shape_type,INVALID
@@ -471,7 +471,7 @@ test_id,des_value
 88_49710236_heel_shape_type,INVALID
 88_49710242_heel_shape_type,INVALID
 88_49710243_heel_shape_type,INVALID
-88_49710244_heel_shape_type,INVALID
+88_49710244_heel_shape_type,Plano
 88_49710249_heel_shape_type,INVALID
 88_49710251_heel_shape_type,INVALID
 88_49710254_heel_shape_type,INVALID
@@ -492,7 +492,7 @@ test_id,des_value
 88_49710283_heel_shape_type,INVALID
 88_49710284_heel_shape_type,INVALID
 88_49710285_heel_shape_type,INVALID
-88_49710286_heel_shape_type,Plano
+88_49710286_heel_shape_type,INVALID
 88_49710289_heel_shape_type,INVALID
 88_49710290_heel_shape_type,INVALID
 88_49710291_heel_shape_type,INVALID
@@ -514,7 +514,7 @@ test_id,des_value
 88_49710489_heel_shape_type,INVALID
 88_49710490_heel_shape_type,INVALID
 88_49710491_heel_shape_type,INVALID
-88_49710497_heel_shape_type,Bloque
+88_49710497_heel_shape_type,Embudo
 88_49710499_heel_shape_type,INVALID
 88_49710501_heel_shape_type,Plano
 88_49710502_heel_shape_type,INVALID
@@ -695,7 +695,7 @@ test_id,des_value
 88_49711038_heel_shape_type,INVALID
 88_49711039_heel_shape_type,INVALID
 88_49711040_heel_shape_type,Plano
-88_49711041_heel_shape_type,Plano
+88_49711041_heel_shape_type,Cuña
 88_49711042_heel_shape_type,INVALID
 88_49711043_heel_shape_type,INVALID
 88_49711044_heel_shape_type,INVALID
@@ -725,7 +725,7 @@ test_id,des_value
 88_49711072_heel_shape_type,INVALID
 88_49711073_heel_shape_type,INVALID
 88_49711074_heel_shape_type,INVALID
-88_49711078_heel_shape_type,INVALID
+88_49711078_heel_shape_type,Plataforma
 88_49711081_heel_shape_type,INVALID
 88_49711088_heel_shape_type,INVALID
 88_49711089_heel_shape_type,INVALID
@@ -752,7 +752,7 @@ test_id,des_value
 88_49711117_heel_shape_type,INVALID
 88_49711118_heel_shape_type,INVALID
 88_49711121_heel_shape_type,INVALID
-88_49711122_heel_shape_type,Plano
+88_49711122_heel_shape_type,Bloque
 88_49711123_heel_shape_type,INVALID
 88_49711125_heel_shape_type,INVALID
 88_49711126_heel_shape_type,INVALID
@@ -775,8 +775,8 @@ test_id,des_value
 88_49711144_heel_shape_type,INVALID
 88_49711145_heel_shape_type,INVALID
 88_49711146_heel_shape_type,INVALID
-88_49711149_heel_shape_type,Plano
-88_49711150_heel_shape_type,Cuña
+88_49711149_heel_shape_type,Bloque
+88_49711150_heel_shape_type,De aguja
 88_49711152_heel_shape_type,INVALID
 88_49711154_heel_shape_type,INVALID
 88_49711155_heel_shape_type,INVALID
@@ -878,7 +878,7 @@ test_id,des_value
 88_49711368_heel_shape_type,INVALID
 88_49711370_heel_shape_type,INVALID
 88_49711371_heel_shape_type,INVALID
-88_49711373_heel_shape_type,Kitten
+88_49711373_heel_shape_type,Plano
 88_49711374_heel_shape_type,INVALID
 88_49711375_heel_shape_type,INVALID
 88_49711376_heel_shape_type,INVALID
@@ -903,7 +903,7 @@ test_id,des_value
 88_49711612_heel_shape_type,INVALID
 88_49711613_heel_shape_type,INVALID
 88_49711614_heel_shape_type,INVALID
-88_49711616_heel_shape_type,INVALID
+88_49711616_heel_shape_type,Plano
 88_49711617_heel_shape_type,INVALID
 88_49711618_heel_shape_type,INVALID
 88_49711619_heel_shape_type,INVALID
@@ -911,7 +911,7 @@ test_id,des_value
 88_49711621_heel_shape_type,INVALID
 88_49711622_heel_shape_type,INVALID
 88_49711623_heel_shape_type,INVALID
-88_49711624_heel_shape_type,Bloque
+88_49711624_heel_shape_type,Plataforma plana
 88_49711627_heel_shape_type,INVALID
 88_49711628_heel_shape_type,INVALID
 88_49711629_heel_shape_type,INVALID
@@ -963,11 +963,11 @@ test_id,des_value
 88_49712045_heel_shape_type,INVALID
 88_49712046_heel_shape_type,INVALID
 88_49712047_heel_shape_type,INVALID
-88_49712049_heel_shape_type,Plataforma
+88_49712049_heel_shape_type,De aguja
 88_49712050_heel_shape_type,INVALID
-88_49712051_heel_shape_type,De aguja
+88_49712051_heel_shape_type,Plano
 88_49712052_heel_shape_type,INVALID
-88_49712054_heel_shape_type,Plano
+88_49712054_heel_shape_type,De aguja
 88_49712055_heel_shape_type,Plano
 88_49712057_heel_shape_type,INVALID
 88_49712058_heel_shape_type,INVALID
@@ -1137,12 +1137,12 @@ test_id,des_value
 88_49712715_heel_shape_type,INVALID
 88_49712716_heel_shape_type,INVALID
 88_49712717_heel_shape_type,INVALID
-88_49712718_heel_shape_type,De aguja
+88_49712718_heel_shape_type,Embudo
 88_49712719_heel_shape_type,INVALID
 88_49712720_heel_shape_type,INVALID
 88_49712721_heel_shape_type,INVALID
 88_49712722_heel_shape_type,INVALID
-88_49712723_heel_shape_type,Embudo
+88_49712723_heel_shape_type,Kitten
 88_49712724_heel_shape_type,INVALID
 88_49712725_heel_shape_type,INVALID
 88_49712726_heel_shape_type,Plano
@@ -1294,7 +1294,7 @@ test_id,des_value
 88_49713099_heel_shape_type,INVALID
 88_49713101_heel_shape_type,INVALID
 88_49713103_heel_shape_type,INVALID
-88_49713105_heel_shape_type,Rectangular
+88_49713105_heel_shape_type,INVALID
 88_49713106_heel_shape_type,INVALID
 88_49713107_heel_shape_type,INVALID
 88_49713108_heel_shape_type,INVALID
@@ -1324,7 +1324,7 @@ test_id,des_value
 88_49713353_heel_shape_type,INVALID
 88_49713356_heel_shape_type,Plano
 88_49713357_heel_shape_type,Plano
-88_49713358_heel_shape_type,Plano
+88_49713358_heel_shape_type,Rectangular
 88_49713359_heel_shape_type,INVALID
 88_49713360_heel_shape_type,INVALID
 88_49713361_heel_shape_type,Plano
@@ -1333,7 +1333,7 @@ test_id,des_value
 88_49713366_heel_shape_type,INVALID
 88_49713367_heel_shape_type,INVALID
 88_49713368_heel_shape_type,INVALID
-88_49713369_heel_shape_type,INVALID
+88_49713369_heel_shape_type,Plano
 88_49713370_heel_shape_type,INVALID
 88_49713371_heel_shape_type,INVALID
 88_49713372_heel_shape_type,INVALID
@@ -1354,7 +1354,7 @@ test_id,des_value
 88_49713390_heel_shape_type,INVALID
 88_49713391_heel_shape_type,INVALID
 88_49713392_heel_shape_type,INVALID
-88_49713393_heel_shape_type,Plano
+88_49713393_heel_shape_type,Cuña
 88_49713396_heel_shape_type,INVALID
 88_49713399_heel_shape_type,INVALID
 88_49713402_heel_shape_type,INVALID
@@ -1387,7 +1387,7 @@ test_id,des_value
 88_49713433_heel_shape_type,INVALID
 88_49713434_heel_shape_type,INVALID
 88_49713435_heel_shape_type,INVALID
-88_49713564_heel_shape_type,Plano
+88_49713564_heel_shape_type,Plataforma
 88_49713572_heel_shape_type,INVALID
 88_49713573_heel_shape_type,INVALID
 88_49713574_heel_shape_type,INVALID
@@ -1489,7 +1489,7 @@ test_id,des_value
 88_49713816_heel_shape_type,Plano
 88_49713817_heel_shape_type,Plano
 88_49713818_heel_shape_type,Plano
-88_49713819_heel_shape_type,INVALID
+88_49713819_heel_shape_type,Plano
 88_49713822_heel_shape_type,INVALID
 88_49713823_heel_shape_type,INVALID
 88_49713824_heel_shape_type,INVALID
@@ -1678,7 +1678,7 @@ test_id,des_value
 88_49714125_heel_shape_type,INVALID
 88_49714126_heel_shape_type,INVALID
 88_49714127_heel_shape_type,INVALID
-88_49714128_heel_shape_type,Plano
+88_49714128_heel_shape_type,INVALID
 88_49714129_heel_shape_type,INVALID
 88_49714130_heel_shape_type,INVALID
 88_49714131_heel_shape_type,INVALID
@@ -1759,7 +1759,7 @@ test_id,des_value
 88_49714709_heel_shape_type,INVALID
 88_49714710_heel_shape_type,INVALID
 88_49714711_heel_shape_type,INVALID
-88_49714712_heel_shape_type,Bloque
+88_49714712_heel_shape_type,Rectangular
 88_49714713_heel_shape_type,INVALID
 88_49714714_heel_shape_type,INVALID
 88_49714715_heel_shape_type,INVALID
@@ -1917,7 +1917,7 @@ test_id,des_value
 88_49715175_heel_shape_type,INVALID
 88_49715176_heel_shape_type,INVALID
 88_49715177_heel_shape_type,INVALID
-88_49715178_heel_shape_type,Plano
+88_49715178_heel_shape_type,De aguja
 88_49715179_heel_shape_type,INVALID
 88_49715180_heel_shape_type,INVALID
 88_49715181_heel_shape_type,INVALID
@@ -1961,7 +1961,7 @@ test_id,des_value
 88_49715307_heel_shape_type,INVALID
 88_49715308_heel_shape_type,INVALID
 88_49715320_heel_shape_type,Plano
-88_49715321_heel_shape_type,Cuña
+88_49715321_heel_shape_type,Plano
 88_49715322_heel_shape_type,Plano
 88_49715324_heel_shape_type,Plano
 88_49715325_heel_shape_type,Plano
@@ -2130,7 +2130,7 @@ test_id,des_value
 88_49716261_heel_shape_type,INVALID
 88_49716262_heel_shape_type,INVALID
 88_49716263_heel_shape_type,INVALID
-88_49716267_heel_shape_type,De aguja
+88_49716267_heel_shape_type,Plano
 88_49716268_heel_shape_type,INVALID
 88_49716269_heel_shape_type,INVALID
 88_49716270_heel_shape_type,INVALID
@@ -2324,8 +2324,8 @@ test_id,des_value
 88_49717308_heel_shape_type,Plano
 88_49717309_heel_shape_type,INVALID
 88_49717310_heel_shape_type,INVALID
-88_49717312_heel_shape_type,INVALID
-88_49717313_heel_shape_type,Plano
+88_49717312_heel_shape_type,De aguja
+88_49717313_heel_shape_type,INVALID
 88_49717314_heel_shape_type,INVALID
 88_49717315_heel_shape_type,INVALID
 88_49717316_heel_shape_type,INVALID
@@ -2381,8 +2381,8 @@ test_id,des_value
 88_49717527_heel_shape_type,INVALID
 88_49717528_heel_shape_type,INVALID
 88_49717529_heel_shape_type,INVALID
-88_49717530_heel_shape_type,Plano
-88_49717531_heel_shape_type,INVALID
+88_49717530_heel_shape_type,De aguja
+88_49717531_heel_shape_type,De aguja
 88_49717534_heel_shape_type,INVALID
 88_49717535_heel_shape_type,INVALID
 88_49717536_heel_shape_type,INVALID
@@ -2396,9 +2396,9 @@ test_id,des_value
 88_49717551_heel_shape_type,INVALID
 88_49717552_heel_shape_type,INVALID
 88_49717553_heel_shape_type,INVALID
-88_49717555_heel_shape_type,Cuña
-88_49717556_heel_shape_type,INVALID
-88_49717557_heel_shape_type,Kitten
+88_49717555_heel_shape_type,Rectangular
+88_49717556_heel_shape_type,Plataforma
+88_49717557_heel_shape_type,INVALID
 88_49717558_heel_shape_type,INVALID
 88_49717559_heel_shape_type,INVALID
 88_49717562_heel_shape_type,INVALID
@@ -2415,9 +2415,9 @@ test_id,des_value
 88_49717698_heel_shape_type,INVALID
 88_49717699_heel_shape_type,INVALID
 88_49717702_heel_shape_type,INVALID
-88_49717705_heel_shape_type,De aguja
+88_49717705_heel_shape_type,Plano
 88_49717706_heel_shape_type,Plano
-88_49717707_heel_shape_type,De aguja
+88_49717707_heel_shape_type,Plano
 88_49717708_heel_shape_type,INVALID
 88_49717709_heel_shape_type,INVALID
 88_49717710_heel_shape_type,INVALID
@@ -2425,11 +2425,11 @@ test_id,des_value
 88_49717716_heel_shape_type,INVALID
 88_49717717_heel_shape_type,Plano
 88_49717724_heel_shape_type,INVALID
-88_49717728_heel_shape_type,De aguja
-88_49717729_heel_shape_type,De aguja
+88_49717728_heel_shape_type,Plano
+88_49717729_heel_shape_type,Plano
 88_49717730_heel_shape_type,INVALID
 88_49717732_heel_shape_type,INVALID
-88_49717738_heel_shape_type,Plano
+88_49717738_heel_shape_type,Bloque
 88_49717739_heel_shape_type,INVALID
 88_49717741_heel_shape_type,INVALID
 88_49717744_heel_shape_type,INVALID
@@ -2448,9 +2448,9 @@ test_id,des_value
 88_49717844_heel_shape_type,INVALID
 88_49717845_heel_shape_type,INVALID
 88_49717846_heel_shape_type,Plano
-88_49717847_heel_shape_type,INVALID
-88_49717848_heel_shape_type,Plano
-88_49717849_heel_shape_type,Plano
+88_49717847_heel_shape_type,Plano
+88_49717848_heel_shape_type,De aguja
+88_49717849_heel_shape_type,De aguja
 88_49717850_heel_shape_type,INVALID
 88_49717851_heel_shape_type,INVALID
 88_49717852_heel_shape_type,INVALID
@@ -2458,7 +2458,7 @@ test_id,des_value
 88_49717854_heel_shape_type,INVALID
 88_49717855_heel_shape_type,INVALID
 88_49717859_heel_shape_type,INVALID
-88_49717860_heel_shape_type,Plataforma
+88_49717860_heel_shape_type,Plano
 88_49717861_heel_shape_type,Plano
 88_49717862_heel_shape_type,INVALID
 88_49717863_heel_shape_type,INVALID
@@ -2469,28 +2469,28 @@ test_id,des_value
 88_49717868_heel_shape_type,INVALID
 88_49717869_heel_shape_type,INVALID
 88_49717872_heel_shape_type,INVALID
-88_49717873_heel_shape_type,INVALID
-88_49717874_heel_shape_type,Bloque
+88_49717873_heel_shape_type,Plano
+88_49717874_heel_shape_type,Plano
 88_49717875_heel_shape_type,INVALID
 88_49717876_heel_shape_type,INVALID
 88_49717877_heel_shape_type,INVALID
 88_49717878_heel_shape_type,INVALID
-88_49717879_heel_shape_type,INVALID
+88_49717879_heel_shape_type,De aguja
 88_49717880_heel_shape_type,INVALID
-88_49717881_heel_shape_type,INVALID
+88_49717881_heel_shape_type,Plano
 88_49717883_heel_shape_type,INVALID
-88_49717884_heel_shape_type,De aguja
-88_49717885_heel_shape_type,Embudo
+88_49717884_heel_shape_type,INVALID
+88_49717885_heel_shape_type,Bloque
 88_49717886_heel_shape_type,INVALID
 88_49717888_heel_shape_type,INVALID
 88_49717889_heel_shape_type,INVALID
-88_49717890_heel_shape_type,Plataforma
+88_49717890_heel_shape_type,Plano
 88_49717891_heel_shape_type,INVALID
 88_49717892_heel_shape_type,INVALID
 88_49717893_heel_shape_type,INVALID
 88_49717894_heel_shape_type,INVALID
 88_49717895_heel_shape_type,INVALID
-88_49717898_heel_shape_type,De aguja
+88_49717898_heel_shape_type,Plano
 88_49717899_heel_shape_type,INVALID
 88_49717900_heel_shape_type,De aguja
 88_49717901_heel_shape_type,De aguja
@@ -2512,8 +2512,8 @@ test_id,des_value
 88_49717965_heel_shape_type,INVALID
 88_49717966_heel_shape_type,INVALID
 88_49717967_heel_shape_type,INVALID
-88_49717968_heel_shape_type,Plataforma
-88_49717969_heel_shape_type,Plano
+88_49717968_heel_shape_type,INVALID
+88_49717969_heel_shape_type,INVALID
 88_49717970_heel_shape_type,INVALID
 88_49717971_heel_shape_type,INVALID
 88_49717972_heel_shape_type,INVALID
@@ -2566,7 +2566,7 @@ test_id,des_value
 88_49718129_heel_shape_type,INVALID
 88_49718130_heel_shape_type,Plano
 88_49718131_heel_shape_type,Plano
-88_49718132_heel_shape_type,Kitten
+88_49718132_heel_shape_type,Plano
 88_49718133_heel_shape_type,INVALID
 88_49718134_heel_shape_type,INVALID
 88_49718135_heel_shape_type,INVALID
@@ -2594,7 +2594,7 @@ test_id,des_value
 88_49718162_heel_shape_type,INVALID
 88_49718164_heel_shape_type,INVALID
 88_49718165_heel_shape_type,INVALID
-88_49718166_heel_shape_type,Embudo
+88_49718166_heel_shape_type,Plano
 88_49718167_heel_shape_type,Plano
 88_49718168_heel_shape_type,INVALID
 88_49718169_heel_shape_type,INVALID
@@ -2651,7 +2651,7 @@ test_id,des_value
 88_49718455_heel_shape_type,INVALID
 88_49718456_heel_shape_type,INVALID
 88_49718457_heel_shape_type,INVALID
-88_49718458_heel_shape_type,Plataforma
+88_49718458_heel_shape_type,Plano
 88_49718459_heel_shape_type,INVALID
 88_49718464_heel_shape_type,INVALID
 88_49718469_heel_shape_type,INVALID
@@ -2717,19 +2717,19 @@ test_id,des_value
 88_49718791_heel_shape_type,INVALID
 88_49718798_heel_shape_type,INVALID
 88_49718799_heel_shape_type,INVALID
-88_49718802_heel_shape_type,Plano
+88_49718802_heel_shape_type,INVALID
 88_49718805_heel_shape_type,INVALID
 88_49718807_heel_shape_type,INVALID
-88_49718808_heel_shape_type,De aguja
+88_49718808_heel_shape_type,Bloque
 88_49718809_heel_shape_type,Plano
-88_49718810_heel_shape_type,De aguja
-88_49718812_heel_shape_type,INVALID
+88_49718810_heel_shape_type,Plano
+88_49718812_heel_shape_type,De aguja
 88_49718818_heel_shape_type,INVALID
 88_49718819_heel_shape_type,INVALID
 88_49718820_heel_shape_type,INVALID
 88_49718821_heel_shape_type,INVALID
 88_49718822_heel_shape_type,INVALID
-88_49718823_heel_shape_type,De aguja
+88_49718823_heel_shape_type,Plano
 88_49718824_heel_shape_type,INVALID
 88_49718825_heel_shape_type,INVALID
 88_49718826_heel_shape_type,INVALID
@@ -2739,7 +2739,7 @@ test_id,des_value
 88_49718830_heel_shape_type,INVALID
 88_49718831_heel_shape_type,INVALID
 88_49718832_heel_shape_type,Plano
-88_49718833_heel_shape_type,INVALID
+88_49718833_heel_shape_type,Embudo
 88_49718837_heel_shape_type,INVALID
 88_49718838_heel_shape_type,INVALID
 88_49718839_heel_shape_type,INVALID
@@ -2754,12 +2754,12 @@ test_id,des_value
 88_49718849_heel_shape_type,INVALID
 88_49718850_heel_shape_type,INVALID
 88_49718851_heel_shape_type,INVALID
-88_49718854_heel_shape_type,Plataforma
+88_49718854_heel_shape_type,INVALID
 88_49718855_heel_shape_type,INVALID
 88_49718856_heel_shape_type,INVALID
-88_49718857_heel_shape_type,Bloque
+88_49718857_heel_shape_type,Plano
 88_49718858_heel_shape_type,Plano
-88_49718859_heel_shape_type,Plano
+88_49718859_heel_shape_type,INVALID
 88_49718860_heel_shape_type,Plano
 88_49718861_heel_shape_type,INVALID
 88_49718864_heel_shape_type,Plano
@@ -2767,7 +2767,7 @@ test_id,des_value
 88_49718866_heel_shape_type,Plano
 88_49718867_heel_shape_type,Plano
 88_49718868_heel_shape_type,INVALID
-88_49718870_heel_shape_type,INVALID
+88_49718870_heel_shape_type,Plano
 88_49718871_heel_shape_type,Plano
 88_49718953_heel_shape_type,INVALID
 88_49718954_heel_shape_type,INVALID
@@ -2786,8 +2786,8 @@ test_id,des_value
 88_49718975_heel_shape_type,INVALID
 88_49718976_heel_shape_type,INVALID
 88_49718977_heel_shape_type,INVALID
-88_49718978_heel_shape_type,Kitten
-88_49718979_heel_shape_type,Plano
+88_49718978_heel_shape_type,Plano
+88_49718979_heel_shape_type,De aguja
 88_49718981_heel_shape_type,INVALID
 88_49718982_heel_shape_type,INVALID
 88_49718983_heel_shape_type,INVALID
@@ -2799,7 +2799,7 @@ test_id,des_value
 88_49718995_heel_shape_type,De aguja
 88_49718998_heel_shape_type,INVALID
 88_49718999_heel_shape_type,INVALID
-88_49719000_heel_shape_type,De aguja
+88_49719000_heel_shape_type,INVALID
 88_49719001_heel_shape_type,INVALID
 88_49719002_heel_shape_type,INVALID
 88_49719003_heel_shape_type,INVALID
@@ -2846,7 +2846,7 @@ test_id,des_value
 88_49719119_heel_shape_type,INVALID
 88_49719120_heel_shape_type,INVALID
 88_49719121_heel_shape_type,INVALID
-88_49719123_heel_shape_type,Kitten
+88_49719123_heel_shape_type,De aguja
 88_49719126_heel_shape_type,INVALID
 88_49719127_heel_shape_type,INVALID
 88_49719128_heel_shape_type,INVALID
@@ -2876,8 +2876,8 @@ test_id,des_value
 88_49719254_heel_shape_type,INVALID
 88_49719255_heel_shape_type,INVALID
 88_49719258_heel_shape_type,INVALID
-88_49719263_heel_shape_type,INVALID
-88_49719265_heel_shape_type,Plano
+88_49719263_heel_shape_type,Cuña
+88_49719265_heel_shape_type,INVALID
 88_49719266_heel_shape_type,INVALID
 88_49719273_heel_shape_type,INVALID
 88_49719274_heel_shape_type,INVALID
@@ -2888,7 +2888,7 @@ test_id,des_value
 88_49719279_heel_shape_type,INVALID
 88_49719280_heel_shape_type,INVALID
 88_49719284_heel_shape_type,INVALID
-88_49719286_heel_shape_type,Plano
+88_49719286_heel_shape_type,INVALID
 88_49719287_heel_shape_type,INVALID
 88_49719288_heel_shape_type,INVALID
 88_49719289_heel_shape_type,INVALID
@@ -2909,7 +2909,7 @@ test_id,des_value
 88_49719315_heel_shape_type,INVALID
 88_49719316_heel_shape_type,INVALID
 88_49719317_heel_shape_type,INVALID
-88_49719318_heel_shape_type,De aguja
+88_49719318_heel_shape_type,Cuña
 88_49719321_heel_shape_type,INVALID
 88_49719322_heel_shape_type,INVALID
 88_49719324_heel_shape_type,INVALID
@@ -2924,7 +2924,7 @@ test_id,des_value
 88_49719339_heel_shape_type,INVALID
 88_49719340_heel_shape_type,Plano
 88_49719341_heel_shape_type,INVALID
-88_49719342_heel_shape_type,Bloque
+88_49719342_heel_shape_type,De aguja
 88_49719343_heel_shape_type,INVALID
 88_49719344_heel_shape_type,Plano
 88_49719345_heel_shape_type,INVALID
@@ -2936,13 +2936,13 @@ test_id,des_value
 88_49719352_heel_shape_type,INVALID
 88_49719359_heel_shape_type,INVALID
 88_49719361_heel_shape_type,INVALID
-88_49719363_heel_shape_type,Plataforma plana
+88_49719363_heel_shape_type,INVALID
 88_49719364_heel_shape_type,INVALID
 88_49719365_heel_shape_type,INVALID
 88_49719366_heel_shape_type,INVALID
 88_49719367_heel_shape_type,INVALID
-88_49719368_heel_shape_type,INVALID
-88_49719369_heel_shape_type,Rectangular
+88_49719368_heel_shape_type,Plano
+88_49719369_heel_shape_type,De aguja
 88_49719375_heel_shape_type,INVALID
 88_49719383_heel_shape_type,INVALID
 88_49719384_heel_shape_type,INVALID
@@ -2968,13 +2968,13 @@ test_id,des_value
 88_49719413_heel_shape_type,INVALID
 88_49719414_heel_shape_type,INVALID
 88_49719415_heel_shape_type,INVALID
-88_49719416_heel_shape_type,Plano
+88_49719416_heel_shape_type,De aguja
 88_49719417_heel_shape_type,INVALID
 88_49719418_heel_shape_type,INVALID
 88_49719419_heel_shape_type,INVALID
 88_49719420_heel_shape_type,INVALID
-88_49719421_heel_shape_type,Rectangular
-88_49719422_heel_shape_type,INVALID
+88_49719421_heel_shape_type,Plano
+88_49719422_heel_shape_type,Plano
 88_49719424_heel_shape_type,INVALID
 88_49719425_heel_shape_type,INVALID
 88_49719426_heel_shape_type,INVALID
@@ -2982,7 +2982,7 @@ test_id,des_value
 88_49719429_heel_shape_type,INVALID
 88_49719430_heel_shape_type,INVALID
 88_49719436_heel_shape_type,INVALID
-88_49719437_heel_shape_type,Plano
+88_49719437_heel_shape_type,INVALID
 88_49719438_heel_shape_type,INVALID
 88_49719439_heel_shape_type,INVALID
 88_49719441_heel_shape_type,INVALID
@@ -3117,7 +3117,7 @@ test_id,des_value
 88_49719889_heel_shape_type,INVALID
 88_49719890_heel_shape_type,INVALID
 88_49719891_heel_shape_type,INVALID
-88_49719892_heel_shape_type,Embudo
+88_49719892_heel_shape_type,Plano
 88_49719893_heel_shape_type,INVALID
 88_49719894_heel_shape_type,INVALID
 88_49719895_heel_shape_type,INVALID
@@ -3225,15 +3225,15 @@ test_id,des_value
 88_49720027_heel_shape_type,INVALID
 88_49720028_heel_shape_type,INVALID
 88_49720029_heel_shape_type,INVALID
-88_49720030_heel_shape_type,Plano
-88_49720031_heel_shape_type,De aguja
+88_49720030_heel_shape_type,Kitten
+88_49720031_heel_shape_type,Plano
 88_49720033_heel_shape_type,INVALID
 88_49720034_heel_shape_type,INVALID
 88_49720035_heel_shape_type,INVALID
 88_49720036_heel_shape_type,INVALID
 88_49720037_heel_shape_type,INVALID
 88_49720038_heel_shape_type,INVALID
-88_49720039_heel_shape_type,Plano
+88_49720039_heel_shape_type,INVALID
 88_49720040_heel_shape_type,INVALID
 88_49720041_heel_shape_type,INVALID
 88_49720042_heel_shape_type,INVALID
@@ -3265,7 +3265,7 @@ test_id,des_value
 88_49720074_heel_shape_type,INVALID
 88_49720076_heel_shape_type,INVALID
 88_49720077_heel_shape_type,INVALID
-88_49720262_heel_shape_type,Trompeta
+88_49720262_heel_shape_type,De aguja
 88_49720263_heel_shape_type,Plano
 88_49720264_heel_shape_type,INVALID
 88_49720265_heel_shape_type,INVALID
@@ -3276,12 +3276,12 @@ test_id,des_value
 88_49720276_heel_shape_type,INVALID
 88_49720277_heel_shape_type,INVALID
 88_49720278_heel_shape_type,INVALID
-88_49720280_heel_shape_type,Embudo
+88_49720280_heel_shape_type,Plano
 88_49720281_heel_shape_type,Plano
 88_49720282_heel_shape_type,Plano
-88_49720283_heel_shape_type,De aguja
+88_49720283_heel_shape_type,Plataforma
 88_49720284_heel_shape_type,INVALID
-88_49720285_heel_shape_type,Trompeta
+88_49720285_heel_shape_type,De aguja
 88_49720286_heel_shape_type,INVALID
 88_49720287_heel_shape_type,INVALID
 88_49720288_heel_shape_type,INVALID
@@ -3289,8 +3289,8 @@ test_id,des_value
 88_49720292_heel_shape_type,INVALID
 88_49720293_heel_shape_type,INVALID
 88_49720294_heel_shape_type,Plano
-88_49720295_heel_shape_type,Kitten
-88_49720296_heel_shape_type,Plano
+88_49720295_heel_shape_type,Plano
+88_49720296_heel_shape_type,Bloque
 88_49720298_heel_shape_type,INVALID
 88_49720300_heel_shape_type,INVALID
 88_49720301_heel_shape_type,INVALID
@@ -3301,21 +3301,21 @@ test_id,des_value
 88_49720306_heel_shape_type,INVALID
 88_49720307_heel_shape_type,INVALID
 88_49720308_heel_shape_type,INVALID
-88_49720309_heel_shape_type,Kitten
+88_49720309_heel_shape_type,Plano
 88_49720312_heel_shape_type,INVALID
 88_49720313_heel_shape_type,INVALID
 88_49720314_heel_shape_type,INVALID
 88_49720315_heel_shape_type,INVALID
 88_49720318_heel_shape_type,Plano
-88_49720319_heel_shape_type,Plano
-88_49720320_heel_shape_type,INVALID
+88_49720319_heel_shape_type,Cuña
+88_49720320_heel_shape_type,De aguja
 88_49720321_heel_shape_type,INVALID
 88_49720322_heel_shape_type,INVALID
 88_49720323_heel_shape_type,INVALID
 88_49720325_heel_shape_type,INVALID
 88_49720326_heel_shape_type,Plano
 88_49720327_heel_shape_type,Plano
-88_49720328_heel_shape_type,De aguja
+88_49720328_heel_shape_type,Embudo
 88_49720329_heel_shape_type,Plano
 88_49720330_heel_shape_type,INVALID
 88_49720331_heel_shape_type,INVALID
@@ -3324,14 +3324,14 @@ test_id,des_value
 88_49720334_heel_shape_type,INVALID
 88_49720335_heel_shape_type,INVALID
 88_49720336_heel_shape_type,INVALID
-88_49720337_heel_shape_type,Kitten
-88_49720338_heel_shape_type,De aguja
+88_49720337_heel_shape_type,Plano
+88_49720338_heel_shape_type,Plataforma
 88_49720340_heel_shape_type,INVALID
 88_49720341_heel_shape_type,INVALID
 88_49720342_heel_shape_type,INVALID
 88_49720343_heel_shape_type,INVALID
 88_49720344_heel_shape_type,INVALID
-88_49720345_heel_shape_type,Kitten
+88_49720345_heel_shape_type,Plano
 88_49720346_heel_shape_type,INVALID
 88_49720347_heel_shape_type,INVALID
 88_49720348_heel_shape_type,INVALID
@@ -3346,7 +3346,7 @@ test_id,des_value
 88_49720695_heel_shape_type,Plano
 88_49720700_heel_shape_type,INVALID
 88_49720701_heel_shape_type,INVALID
-88_49720702_heel_shape_type,De aguja
+88_49720702_heel_shape_type,Embudo
 88_49720705_heel_shape_type,INVALID
 88_49720706_heel_shape_type,INVALID
 88_49720707_heel_shape_type,INVALID
@@ -3389,7 +3389,7 @@ test_id,des_value
 88_49720760_heel_shape_type,INVALID
 88_49720761_heel_shape_type,INVALID
 88_49720762_heel_shape_type,INVALID
-88_49720763_heel_shape_type,INVALID
+88_49720763_heel_shape_type,Plano
 88_49720764_heel_shape_type,Plano
 88_49720765_heel_shape_type,INVALID
 88_49720767_heel_shape_type,INVALID
@@ -3397,7 +3397,7 @@ test_id,des_value
 88_49720771_heel_shape_type,INVALID
 88_49720772_heel_shape_type,INVALID
 88_49720774_heel_shape_type,Plano
-88_49720775_heel_shape_type,Plataforma
+88_49720775_heel_shape_type,Bloque
 88_49720778_heel_shape_type,INVALID
 88_49720779_heel_shape_type,INVALID
 88_49720780_heel_shape_type,Plano
@@ -3475,8 +3475,8 @@ test_id,des_value
 88_49720938_heel_shape_type,Plano
 88_49720939_heel_shape_type,INVALID
 88_49720940_heel_shape_type,INVALID
-88_49720945_heel_shape_type,Bloque
-88_49720949_heel_shape_type,De aguja
+88_49720945_heel_shape_type,Plano
+88_49720949_heel_shape_type,Plano
 88_49721079_heel_shape_type,INVALID
 88_49721111_heel_shape_type,INVALID
 88_49721112_heel_shape_type,INVALID
@@ -3509,7 +3509,7 @@ test_id,des_value
 88_49721148_heel_shape_type,INVALID
 88_49721149_heel_shape_type,INVALID
 88_49721150_heel_shape_type,Plano
-88_49721151_heel_shape_type,Plano
+88_49721151_heel_shape_type,De aguja
 88_49721152_heel_shape_type,INVALID
 88_49721154_heel_shape_type,INVALID
 88_49721158_heel_shape_type,INVALID
@@ -3591,7 +3591,7 @@ test_id,des_value
 88_49721684_heel_shape_type,INVALID
 88_49721685_heel_shape_type,INVALID
 88_49721686_heel_shape_type,INVALID
-88_49721687_heel_shape_type,Embudo
+88_49721687_heel_shape_type,Plano
 88_49721688_heel_shape_type,INVALID
 88_49721689_heel_shape_type,INVALID
 88_49721690_heel_shape_type,INVALID
@@ -3603,7 +3603,7 @@ test_id,des_value
 88_49721697_heel_shape_type,INVALID
 88_49721699_heel_shape_type,INVALID
 88_49721700_heel_shape_type,INVALID
-88_49721701_heel_shape_type,Trompeta
+88_49721701_heel_shape_type,Bloque
 88_49721702_heel_shape_type,INVALID
 88_49721703_heel_shape_type,INVALID
 88_49721704_heel_shape_type,INVALID
@@ -3682,7 +3682,7 @@ test_id,des_value
 88_49721973_heel_shape_type,INVALID
 88_49721974_heel_shape_type,INVALID
 88_49721975_heel_shape_type,INVALID
-88_49722020_heel_shape_type,Plataforma
+88_49722020_heel_shape_type,Bloque
 88_49722021_heel_shape_type,INVALID
 88_49722022_heel_shape_type,INVALID
 88_49722024_heel_shape_type,INVALID
@@ -3693,12 +3693,12 @@ test_id,des_value
 88_49722029_heel_shape_type,INVALID
 88_49722030_heel_shape_type,INVALID
 88_49722031_heel_shape_type,INVALID
-88_49722035_heel_shape_type,De aguja
+88_49722035_heel_shape_type,Plano
 88_49722036_heel_shape_type,INVALID
 88_49722037_heel_shape_type,INVALID
 88_49722038_heel_shape_type,INVALID
 88_49722041_heel_shape_type,INVALID
-88_49722042_heel_shape_type,De aguja
+88_49722042_heel_shape_type,INVALID
 88_49722045_heel_shape_type,INVALID
 88_49722048_heel_shape_type,INVALID
 88_49722049_heel_shape_type,INVALID
@@ -3707,7 +3707,7 @@ test_id,des_value
 88_49722054_heel_shape_type,INVALID
 88_49722055_heel_shape_type,INVALID
 88_49722056_heel_shape_type,INVALID
-88_49722057_heel_shape_type,INVALID
+88_49722057_heel_shape_type,Plano
 88_49722058_heel_shape_type,INVALID
 88_49722063_heel_shape_type,INVALID
 88_49722065_heel_shape_type,INVALID
@@ -3738,7 +3738,7 @@ test_id,des_value
 88_49722198_heel_shape_type,INVALID
 88_49722206_heel_shape_type,INVALID
 88_49722207_heel_shape_type,INVALID
-88_49722208_heel_shape_type,Embudo
+88_49722208_heel_shape_type,Plano
 88_49722209_heel_shape_type,Plano
 88_49722210_heel_shape_type,INVALID
 88_49722211_heel_shape_type,INVALID
@@ -3756,7 +3756,7 @@ test_id,des_value
 88_49722238_heel_shape_type,INVALID
 88_49722239_heel_shape_type,INVALID
 88_49722240_heel_shape_type,INVALID
-88_49722242_heel_shape_type,Kitten
+88_49722242_heel_shape_type,Plano
 88_49722243_heel_shape_type,INVALID
 88_49722244_heel_shape_type,INVALID
 88_49722246_heel_shape_type,INVALID
@@ -3772,9 +3772,9 @@ test_id,des_value
 88_49722444_heel_shape_type,INVALID
 88_49722445_heel_shape_type,INVALID
 88_49722448_heel_shape_type,INVALID
-88_49722449_heel_shape_type,Plataforma plana
-88_49722450_heel_shape_type,Plano
-88_49722451_heel_shape_type,Plataforma
+88_49722449_heel_shape_type,De aguja
+88_49722450_heel_shape_type,INVALID
+88_49722451_heel_shape_type,INVALID
 88_49722452_heel_shape_type,INVALID
 88_49722457_heel_shape_type,INVALID
 88_49722458_heel_shape_type,INVALID
@@ -3784,14 +3784,14 @@ test_id,des_value
 88_49722464_heel_shape_type,INVALID
 88_49722465_heel_shape_type,INVALID
 88_49722466_heel_shape_type,INVALID
-88_49722467_heel_shape_type,INVALID
-88_49722468_heel_shape_type,INVALID
+88_49722467_heel_shape_type,Plano
+88_49722468_heel_shape_type,Plano
 88_49722478_heel_shape_type,INVALID
-88_49722479_heel_shape_type,INVALID
+88_49722479_heel_shape_type,Plano
 88_49722480_heel_shape_type,INVALID
 88_49722483_heel_shape_type,INVALID
 88_49722484_heel_shape_type,INVALID
-88_49722489_heel_shape_type,INVALID
+88_49722489_heel_shape_type,Plano
 88_49722492_heel_shape_type,INVALID
 88_49722493_heel_shape_type,INVALID
 88_49722494_heel_shape_type,INVALID
@@ -3802,7 +3802,7 @@ test_id,des_value
 88_49722504_heel_shape_type,INVALID
 88_49722505_heel_shape_type,INVALID
 88_49722506_heel_shape_type,INVALID
-88_49722507_heel_shape_type,Plataforma
+88_49722507_heel_shape_type,INVALID
 88_49722509_heel_shape_type,INVALID
 88_49722515_heel_shape_type,INVALID
 88_49722516_heel_shape_type,INVALID
@@ -3957,7 +3957,7 @@ test_id,des_value
 88_49722999_heel_shape_type,INVALID
 88_49723000_heel_shape_type,INVALID
 88_49723004_heel_shape_type,INVALID
-88_49723005_heel_shape_type,INVALID
+88_49723005_heel_shape_type,Plano
 88_49723006_heel_shape_type,INVALID
 88_49723007_heel_shape_type,INVALID
 88_49723008_heel_shape_type,INVALID
@@ -3977,10 +3977,10 @@ test_id,des_value
 88_49723028_heel_shape_type,INVALID
 88_49723029_heel_shape_type,INVALID
 88_49723030_heel_shape_type,INVALID
-88_49723031_heel_shape_type,INVALID
+88_49723031_heel_shape_type,Plano
 88_49723032_heel_shape_type,INVALID
 88_49723034_heel_shape_type,INVALID
-88_49723041_heel_shape_type,INVALID
+88_49723041_heel_shape_type,Plano
 88_49723042_heel_shape_type,INVALID
 88_49723043_heel_shape_type,INVALID
 88_49723044_heel_shape_type,INVALID
@@ -4000,7 +4000,7 @@ test_id,des_value
 88_49723063_heel_shape_type,INVALID
 88_49723064_heel_shape_type,INVALID
 88_49723065_heel_shape_type,INVALID
-88_49723066_heel_shape_type,Plano
+88_49723066_heel_shape_type,INVALID
 88_49723139_heel_shape_type,Plano
 88_49723140_heel_shape_type,Plano
 88_49723143_heel_shape_type,INVALID
@@ -4091,7 +4091,7 @@ test_id,des_value
 88_49723335_heel_shape_type,INVALID
 88_49723336_heel_shape_type,INVALID
 88_49723337_heel_shape_type,De aguja
-88_49723338_heel_shape_type,INVALID
+88_49723338_heel_shape_type,De aguja
 88_49723339_heel_shape_type,INVALID
 88_49723340_heel_shape_type,INVALID
 88_49723341_heel_shape_type,INVALID
@@ -4157,8 +4157,8 @@ test_id,des_value
 88_49723715_heel_shape_type,INVALID
 88_49723716_heel_shape_type,INVALID
 88_49723719_heel_shape_type,INVALID
-88_49723775_heel_shape_type,De aguja
-88_49723776_heel_shape_type,Cuña
+88_49723775_heel_shape_type,Plano
+88_49723776_heel_shape_type,De aguja
 88_49723838_heel_shape_type,INVALID
 88_49723839_heel_shape_type,INVALID
 88_49723840_heel_shape_type,INVALID
@@ -4205,7 +4205,7 @@ test_id,des_value
 88_49724079_heel_shape_type,Plano
 88_49724080_heel_shape_type,Plano
 88_49724081_heel_shape_type,Plano
-88_49724103_heel_shape_type,Plataforma
+88_49724103_heel_shape_type,Plano
 88_49724104_heel_shape_type,Plano
 88_49724105_heel_shape_type,INVALID
 88_49724106_heel_shape_type,INVALID
@@ -4216,7 +4216,7 @@ test_id,des_value
 88_49724134_heel_shape_type,INVALID
 88_49724135_heel_shape_type,INVALID
 88_49724136_heel_shape_type,INVALID
-88_49724139_heel_shape_type,Embudo
+88_49724139_heel_shape_type,Plano
 88_49724146_heel_shape_type,INVALID
 88_49724154_heel_shape_type,INVALID
 88_49724155_heel_shape_type,INVALID
@@ -4251,7 +4251,7 @@ test_id,des_value
 88_49724217_heel_shape_type,INVALID
 88_49724218_heel_shape_type,INVALID
 88_49724220_heel_shape_type,INVALID
-88_49724221_heel_shape_type,Plano
+88_49724221_heel_shape_type,INVALID
 88_49724222_heel_shape_type,INVALID
 88_49724223_heel_shape_type,INVALID
 88_49724224_heel_shape_type,INVALID
@@ -4270,7 +4270,7 @@ test_id,des_value
 88_49724245_heel_shape_type,INVALID
 88_49724249_heel_shape_type,INVALID
 88_49724250_heel_shape_type,INVALID
-88_49724251_heel_shape_type,INVALID
+88_49724251_heel_shape_type,Plano
 88_49724252_heel_shape_type,INVALID
 88_49724253_heel_shape_type,INVALID
 88_49724254_heel_shape_type,INVALID
@@ -4286,7 +4286,7 @@ test_id,des_value
 88_49724271_heel_shape_type,INVALID
 88_49724272_heel_shape_type,INVALID
 88_49724273_heel_shape_type,INVALID
-88_49724275_heel_shape_type,Embudo
+88_49724275_heel_shape_type,Plano
 88_49724281_heel_shape_type,INVALID
 88_49724282_heel_shape_type,INVALID
 88_49724283_heel_shape_type,INVALID
@@ -4331,8 +4331,8 @@ test_id,des_value
 88_49724635_heel_shape_type,INVALID
 88_49724636_heel_shape_type,INVALID
 88_49724637_heel_shape_type,INVALID
-88_49724638_heel_shape_type,Embudo
-88_49724639_heel_shape_type,Embudo
+88_49724638_heel_shape_type,Plano
+88_49724639_heel_shape_type,Plano
 88_49724643_heel_shape_type,INVALID
 88_49724644_heel_shape_type,INVALID
 88_49724649_heel_shape_type,INVALID
@@ -4418,7 +4418,7 @@ test_id,des_value
 88_49725171_heel_shape_type,INVALID
 88_49725172_heel_shape_type,INVALID
 88_49725173_heel_shape_type,INVALID
-88_49725174_heel_shape_type,Plano
+88_49725174_heel_shape_type,Bloque
 88_49725175_heel_shape_type,INVALID
 88_49725176_heel_shape_type,INVALID
 88_49725177_heel_shape_type,INVALID
@@ -4487,7 +4487,7 @@ test_id,des_value
 88_49725375_heel_shape_type,INVALID
 88_49725376_heel_shape_type,INVALID
 88_49725377_heel_shape_type,INVALID
-88_49725380_heel_shape_type,INVALID
+88_49725380_heel_shape_type,Plano
 88_49725382_heel_shape_type,INVALID
 88_49725383_heel_shape_type,INVALID
 88_49725384_heel_shape_type,INVALID
@@ -4510,14 +4510,14 @@ test_id,des_value
 88_49725567_heel_shape_type,INVALID
 88_49725568_heel_shape_type,INVALID
 88_49725569_heel_shape_type,INVALID
-88_49725573_heel_shape_type,De aguja
+88_49725573_heel_shape_type,Plano
 88_49725574_heel_shape_type,INVALID
 88_49725575_heel_shape_type,INVALID
 88_49725576_heel_shape_type,INVALID
 88_49725581_heel_shape_type,INVALID
 88_49725582_heel_shape_type,INVALID
 88_49725584_heel_shape_type,INVALID
-88_49725585_heel_shape_type,Embudo
+88_49725585_heel_shape_type,Plano
 88_49725586_heel_shape_type,INVALID
 88_49725592_heel_shape_type,INVALID
 88_49725593_heel_shape_type,INVALID
@@ -4535,7 +4535,7 @@ test_id,des_value
 88_49725619_heel_shape_type,INVALID
 88_49725620_heel_shape_type,INVALID
 88_49725621_heel_shape_type,INVALID
-88_49725626_heel_shape_type,De aguja
+88_49725626_heel_shape_type,Bloque
 88_49725627_heel_shape_type,INVALID
 88_49725628_heel_shape_type,INVALID
 88_49725629_heel_shape_type,INVALID
@@ -4543,7 +4543,7 @@ test_id,des_value
 88_49725637_heel_shape_type,INVALID
 88_49725638_heel_shape_type,INVALID
 88_49725639_heel_shape_type,INVALID
-88_49725640_heel_shape_type,De aguja
+88_49725640_heel_shape_type,Plano
 88_49725641_heel_shape_type,INVALID
 88_49725642_heel_shape_type,Plano
 88_49725648_heel_shape_type,INVALID
@@ -4573,7 +4573,7 @@ test_id,des_value
 88_49725788_heel_shape_type,INVALID
 88_49725792_heel_shape_type,INVALID
 88_49725793_heel_shape_type,INVALID
-88_49725794_heel_shape_type,Embudo
+88_49725794_heel_shape_type,Plano
 88_49725795_heel_shape_type,INVALID
 88_49725796_heel_shape_type,INVALID
 88_49725798_heel_shape_type,INVALID
@@ -4617,7 +4617,7 @@ test_id,des_value
 88_49726120_heel_shape_type,INVALID
 88_49726122_heel_shape_type,INVALID
 88_49726125_heel_shape_type,INVALID
-88_49726126_heel_shape_type,Bloque
+88_49726126_heel_shape_type,Plano
 88_49726128_heel_shape_type,INVALID
 88_49726129_heel_shape_type,INVALID
 88_49726131_heel_shape_type,INVALID
@@ -4634,7 +4634,7 @@ test_id,des_value
 88_49726154_heel_shape_type,INVALID
 88_49726155_heel_shape_type,INVALID
 88_49726156_heel_shape_type,INVALID
-88_49726157_heel_shape_type,INVALID
+88_49726157_heel_shape_type,De aguja
 88_49726160_heel_shape_type,INVALID
 88_49726161_heel_shape_type,INVALID
 88_49726162_heel_shape_type,INVALID
@@ -4647,7 +4647,7 @@ test_id,des_value
 88_49726172_heel_shape_type,INVALID
 88_49726177_heel_shape_type,INVALID
 88_49726178_heel_shape_type,INVALID
-88_49726180_heel_shape_type,INVALID
+88_49726180_heel_shape_type,Plano
 88_49726181_heel_shape_type,INVALID
 88_49726182_heel_shape_type,Plano
 88_49726184_heel_shape_type,INVALID
@@ -4655,21 +4655,21 @@ test_id,des_value
 88_49726485_heel_shape_type,INVALID
 88_49726487_heel_shape_type,INVALID
 88_49726488_heel_shape_type,INVALID
-88_49726490_heel_shape_type,Embudo
+88_49726490_heel_shape_type,Plano
 88_49726492_heel_shape_type,INVALID
 88_49726494_heel_shape_type,INVALID
 88_49726495_heel_shape_type,INVALID
 88_49726503_heel_shape_type,INVALID
 88_49726504_heel_shape_type,INVALID
-88_49726505_heel_shape_type,Plataforma
+88_49726505_heel_shape_type,Plano
 88_49726506_heel_shape_type,INVALID
 88_49726507_heel_shape_type,INVALID
 88_49726508_heel_shape_type,INVALID
 88_49726509_heel_shape_type,De aguja
-88_49726510_heel_shape_type,Bloque
+88_49726510_heel_shape_type,Plano
 88_49726511_heel_shape_type,INVALID
 88_49726512_heel_shape_type,INVALID
-88_49726516_heel_shape_type,INVALID
+88_49726516_heel_shape_type,Plano
 88_49726517_heel_shape_type,INVALID
 88_49726518_heel_shape_type,INVALID
 88_49726522_heel_shape_type,INVALID
@@ -4726,7 +4726,7 @@ test_id,des_value
 88_49726819_heel_shape_type,INVALID
 88_49726820_heel_shape_type,INVALID
 88_49726821_heel_shape_type,INVALID
-88_49726824_heel_shape_type,INVALID
+88_49726824_heel_shape_type,De aguja
 88_49726825_heel_shape_type,INVALID
 88_49726828_heel_shape_type,INVALID
 88_49726831_heel_shape_type,INVALID
@@ -4764,7 +4764,7 @@ test_id,des_value
 88_49727042_heel_shape_type,INVALID
 88_49727044_heel_shape_type,INVALID
 88_49727045_heel_shape_type,INVALID
-88_49727046_heel_shape_type,Plano
+88_49727046_heel_shape_type,INVALID
 88_49727048_heel_shape_type,Plano
 88_49727050_heel_shape_type,INVALID
 88_49727051_heel_shape_type,INVALID
@@ -4780,7 +4780,7 @@ test_id,des_value
 88_49727068_heel_shape_type,INVALID
 88_49727070_heel_shape_type,INVALID
 88_49727071_heel_shape_type,INVALID
-88_49727072_heel_shape_type,Plano
+88_49727072_heel_shape_type,INVALID
 88_49727074_heel_shape_type,INVALID
 88_49727075_heel_shape_type,INVALID
 88_49727076_heel_shape_type,INVALID
@@ -4830,7 +4830,7 @@ test_id,des_value
 88_49727308_heel_shape_type,INVALID
 88_49727311_heel_shape_type,INVALID
 88_49727312_heel_shape_type,INVALID
-88_49727313_heel_shape_type,Plano
+88_49727313_heel_shape_type,Bloque
 88_49727314_heel_shape_type,INVALID
 88_49727315_heel_shape_type,INVALID
 88_49727317_heel_shape_type,INVALID
@@ -4861,8 +4861,8 @@ test_id,des_value
 88_49727355_heel_shape_type,INVALID
 88_49727356_heel_shape_type,INVALID
 88_49727357_heel_shape_type,Plano
-88_49727358_heel_shape_type,Plano
-88_49727359_heel_shape_type,Plano
+88_49727358_heel_shape_type,Plataforma plana
+88_49727359_heel_shape_type,Plataforma plana
 88_49727363_heel_shape_type,INVALID
 88_49727368_heel_shape_type,INVALID
 88_49727369_heel_shape_type,INVALID
@@ -4872,8 +4872,8 @@ test_id,des_value
 88_49727374_heel_shape_type,INVALID
 88_49727375_heel_shape_type,INVALID
 88_49727376_heel_shape_type,INVALID
-88_49727377_heel_shape_type,De aguja
-88_49727378_heel_shape_type,Plataforma
+88_49727377_heel_shape_type,INVALID
+88_49727378_heel_shape_type,De aguja
 88_49727499_heel_shape_type,INVALID
 88_49727500_heel_shape_type,INVALID
 88_49727502_heel_shape_type,INVALID
@@ -4903,7 +4903,7 @@ test_id,des_value
 88_49727549_heel_shape_type,INVALID
 88_49727550_heel_shape_type,INVALID
 88_49727554_heel_shape_type,INVALID
-88_49727555_heel_shape_type,Plataforma
+88_49727555_heel_shape_type,Plano
 88_49727556_heel_shape_type,INVALID
 88_49727558_heel_shape_type,Plano
 88_49727597_heel_shape_type,INVALID
@@ -5239,7 +5239,7 @@ test_id,des_value
 88_49728705_heel_shape_type,INVALID
 88_49728706_heel_shape_type,INVALID
 88_49728707_heel_shape_type,Plano
-88_49728708_heel_shape_type,Plano
+88_49728708_heel_shape_type,De aguja
 88_49728709_heel_shape_type,INVALID
 88_49728710_heel_shape_type,INVALID
 88_49728715_heel_shape_type,INVALID
@@ -5269,7 +5269,7 @@ test_id,des_value
 88_49728864_heel_shape_type,INVALID
 88_49728865_heel_shape_type,INVALID
 88_49728867_heel_shape_type,INVALID
-88_49728868_heel_shape_type,INVALID
+88_49728868_heel_shape_type,Plano
 88_49728869_heel_shape_type,Plano
 88_49728870_heel_shape_type,INVALID
 88_49728871_heel_shape_type,INVALID
@@ -5350,7 +5350,7 @@ test_id,des_value
 88_49729143_heel_shape_type,INVALID
 88_49729144_heel_shape_type,INVALID
 88_49729145_heel_shape_type,INVALID
-88_49729146_heel_shape_type,Plataforma
+88_49729146_heel_shape_type,Plano
 88_49729147_heel_shape_type,INVALID
 88_49729148_heel_shape_type,INVALID
 88_49729149_heel_shape_type,INVALID
@@ -5436,7 +5436,7 @@ test_id,des_value
 88_49729506_heel_shape_type,INVALID
 88_49729508_heel_shape_type,INVALID
 88_49729509_heel_shape_type,INVALID
-88_49729510_heel_shape_type,INVALID
+88_49729510_heel_shape_type,Plano
 88_49729511_heel_shape_type,INVALID
 88_49729513_heel_shape_type,INVALID
 88_49729516_heel_shape_type,INVALID
@@ -5750,7 +5750,7 @@ test_id,des_value
 88_49731007_heel_shape_type,INVALID
 88_49731008_heel_shape_type,INVALID
 88_49731013_heel_shape_type,De aguja
-88_49731014_heel_shape_type,De aguja
+88_49731014_heel_shape_type,Plano
 88_49731015_heel_shape_type,INVALID
 88_49731019_heel_shape_type,INVALID
 88_49731020_heel_shape_type,INVALID
@@ -5862,7 +5862,7 @@ test_id,des_value
 88_49731381_heel_shape_type,INVALID
 88_49731382_heel_shape_type,INVALID
 88_49731384_heel_shape_type,INVALID
-88_49731387_heel_shape_type,De aguja
+88_49731387_heel_shape_type,Bloque
 88_49731390_heel_shape_type,INVALID
 88_49731391_heel_shape_type,INVALID
 88_49731392_heel_shape_type,INVALID
@@ -5885,7 +5885,7 @@ test_id,des_value
 88_49731417_heel_shape_type,INVALID
 88_49731418_heel_shape_type,INVALID
 88_49731419_heel_shape_type,INVALID
-88_49731420_heel_shape_type,Embudo
+88_49731420_heel_shape_type,INVALID
 88_49731421_heel_shape_type,INVALID
 88_49731422_heel_shape_type,INVALID
 88_49731425_heel_shape_type,INVALID
@@ -6128,9 +6128,9 @@ test_id,des_value
 88_49733120_heel_shape_type,INVALID
 88_49733121_heel_shape_type,INVALID
 88_49733122_heel_shape_type,INVALID
-88_49733123_heel_shape_type,De aguja
-88_49733124_heel_shape_type,Plano
-88_49733125_heel_shape_type,De aguja
+88_49733123_heel_shape_type,Bloque
+88_49733124_heel_shape_type,De aguja
+88_49733125_heel_shape_type,Bloque
 88_49733126_heel_shape_type,INVALID
 88_49733127_heel_shape_type,INVALID
 88_49733128_heel_shape_type,INVALID
@@ -6154,7 +6154,7 @@ test_id,des_value
 88_49733148_heel_shape_type,INVALID
 88_49733149_heel_shape_type,INVALID
 88_49733150_heel_shape_type,Plano
-88_49733151_heel_shape_type,Plataforma plana
+88_49733151_heel_shape_type,Plano
 88_49733152_heel_shape_type,INVALID
 88_49733154_heel_shape_type,INVALID
 88_49733155_heel_shape_type,INVALID
@@ -6229,7 +6229,7 @@ test_id,des_value
 88_49733685_heel_shape_type,INVALID
 88_49733686_heel_shape_type,INVALID
 88_49733687_heel_shape_type,INVALID
-88_49733688_heel_shape_type,Kitten
+88_49733688_heel_shape_type,Plano
 88_49733870_heel_shape_type,INVALID
 88_49733871_heel_shape_type,INVALID
 88_49733872_heel_shape_type,Plano
@@ -6250,7 +6250,7 @@ test_id,des_value
 88_49734143_heel_shape_type,INVALID
 88_49734144_heel_shape_type,INVALID
 88_49734146_heel_shape_type,INVALID
-88_49734148_heel_shape_type,Plano
+88_49734148_heel_shape_type,De aguja
 88_49734150_heel_shape_type,INVALID
 88_49734153_heel_shape_type,INVALID
 88_49734155_heel_shape_type,INVALID
@@ -6269,9 +6269,9 @@ test_id,des_value
 88_49734281_heel_shape_type,INVALID
 88_49734282_heel_shape_type,INVALID
 88_49734283_heel_shape_type,INVALID
-88_49734284_heel_shape_type,De aguja
+88_49734284_heel_shape_type,Plataforma
 88_49734285_heel_shape_type,INVALID
-88_49734286_heel_shape_type,De aguja
+88_49734286_heel_shape_type,Embudo
 88_49734287_heel_shape_type,INVALID
 88_49734289_heel_shape_type,INVALID
 88_49734290_heel_shape_type,INVALID
@@ -6282,7 +6282,7 @@ test_id,des_value
 88_49734452_heel_shape_type,INVALID
 88_49734453_heel_shape_type,INVALID
 88_49734454_heel_shape_type,Plano
-88_49734455_heel_shape_type,De aguja
+88_49734455_heel_shape_type,Plano
 88_49734456_heel_shape_type,INVALID
 88_49734457_heel_shape_type,Plano
 88_49734459_heel_shape_type,INVALID
@@ -6377,11 +6377,11 @@ test_id,des_value
 88_49734862_heel_shape_type,INVALID
 88_49735128_heel_shape_type,INVALID
 88_49735130_heel_shape_type,INVALID
-88_49735131_heel_shape_type,INVALID
+88_49735131_heel_shape_type,Plano
 88_49735132_heel_shape_type,INVALID
 88_49735133_heel_shape_type,INVALID
 88_49735134_heel_shape_type,INVALID
-88_49735135_heel_shape_type,INVALID
+88_49735135_heel_shape_type,Plano
 88_49735137_heel_shape_type,INVALID
 88_49735138_heel_shape_type,INVALID
 88_49735139_heel_shape_type,INVALID
@@ -6494,7 +6494,7 @@ test_id,des_value
 88_49739286_heel_shape_type,INVALID
 88_49739287_heel_shape_type,INVALID
 88_49739288_heel_shape_type,INVALID
-88_49739289_heel_shape_type,INVALID
+88_49739289_heel_shape_type,Plano
 88_49739498_heel_shape_type,INVALID
 88_49739499_heel_shape_type,INVALID
 88_49740276_heel_shape_type,INVALID

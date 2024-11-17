@@ -11,6 +11,41 @@ import re
 import sys
 from scipy.ndimage import zoom
 
+def get_invalid_pairs():
+    pr_df = pd.read_csv("./data/product_data.csv")
+    at_df = pd.read_csv("./data/attribute_data.csv")
+
+    attrs = at_df["attribute_name"].unique()
+    types = pr_df["des_product_type"].unique()
+
+    print(attrs)
+    print(types)
+
+    tdict = {}
+    adict={}
+
+    count = 0
+    for t in pr_df["cod_modelo_color"]:
+        tdict[t] = pr_df.loc[count, "des_product_type"]
+        count += 1
+
+    count = 0
+
+    for a in attrs:
+        adict[a] = set()
+    for a in at_df["attribute_name"]:
+        adict[a].add(tdict[at_df.loc[count, "cod_modelo_color"]])
+        count += 1
+
+    pairs = []
+
+    for a in attrs:
+        for t in types:
+            if not (t in adict[a]):
+                pairs.append([t, a])
+
+    return pairs
+
 attributes = ["silhouette_type"]
 models = {}
 
@@ -42,6 +77,12 @@ for attr in attributes:
         if count > 100:
             break
         current_df = test_df[test_df["des_filename"] == img]
+        if [current_df.head(1)["des_product_type"], attr] in pairs:
+            current_prediction = 0
+            predictions.append(current_prediction) 
+            image_names.append(img)
+            continue
+
         current_df = current_df.head(1)[predicting_columns]
         current_df = current_df
 
@@ -52,7 +93,10 @@ for attr in attributes:
         np_img = np.divide(np_img, 255)
         img_array = np_img[np.newaxis, ..., np.newaxis]
 
-        predictions.append(np.argmax((models[attr]).predict([img_array, current_df], verbose=0) , axis=1)[0])
+        current_prediction = np.argmax((models[attr]).predict([img_array, current_df], verbose=0) , axis=1)[0]
+
+
+        predictions.append(current_prediction) 
         image_names.append(img)
 
         count += 1

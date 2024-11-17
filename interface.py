@@ -20,6 +20,8 @@ def analyze_image(img_name):
         print('Error: ', response.status_code)
 
 
+demo = st.toggle("Demo Activada")
+
 st.title("AI Clothing Image Analyzer")
 st.write("Upload or take clothing photos to analyze them.")
 
@@ -53,9 +55,14 @@ try:
                     imggg = Image.open(io.BytesIO(c.getvalue()))
                     imggg.save('../../captured_photo.jpg')
 
-                    analysis = analyze_image('../../../captured_photo.jpg')
+                    with st.spinner('Analyzing'):
+                        analysis = analyze_image('../../../captured_photo.jpg')
+                elif demo:
+                    with st.spinner('Analyzing'):
+                        analysis = analyze_image('../../../../' + photo.name)
                 else:
-                    analysis = analyze_image(photo.name)
+                    with st.spinner('Analyzing'):
+                        analysis = analyze_image(photo.name)
                 col3, col4 = st.columns([2, 1])
 
                 with col3:

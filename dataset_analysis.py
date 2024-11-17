@@ -18,4 +18,4 @@ relations = product_data.groupby("des_product_category")["des_product_type"].uni
 print(relations.reset_index())
 
 
-
+print(attribute_data["attribute_name"].unique())

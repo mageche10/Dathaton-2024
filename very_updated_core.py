@@ -13,6 +13,8 @@ data_filepath = "./data/"
 image_width = 160
 image_height = 224
 
+maxNum = 40000
+
 red_factor = 4
 
 attribute_data = pd.read_csv(data_filepath + "attribute_data.csv")
@@ -76,6 +78,8 @@ for filename in product_data["des_filename"]:
     np_img = np.divide(np_img, 255)
     images.append(np_img)
     c += 1
+    if(c >= maxNum):
+        break
     if(c % 100 == 0):
         print(c)
 
@@ -122,7 +126,6 @@ for attr in attribute_list:
 
     # Create TensorFlow datasets
     dataset = tf.data.Dataset.from_tensor_slices((image_array, label_array))
-    dataset = dataset.shuffle(buffer_size=1000).batch(32) 
 
     #create model
     img_input = layers.Input(shape=(int(image_width / red_factor), int(image_height / red_factor), 1))
@@ -147,9 +150,9 @@ for attr in attribute_list:
         metrics=['accuracy']
     )
 
-    product_data = product_data.drop(["cod_modelo_color", "des_filename"], axis=1)
+    input_data = product_data.drop(["cod_modelo_color", "des_filename"], axis=1)[:maxNum]
     #fit model
-    model.fit([image_array, product_data], label_array, batch_size=16, epochs=8)
+    model.fit([image_array, input_data], label_array, batch_size=16, epochs=8)
 
     #save model for later use
     model.save("./models/very_updated_" + attr + ".keras")

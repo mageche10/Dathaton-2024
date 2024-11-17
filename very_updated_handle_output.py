@@ -46,7 +46,8 @@ def get_invalid_pairs():
 
     return pairs
 
-attributes = ["silhouette_type"]
+pairs = get_invalid_pairs()
+attributes = ["sleeve_length_type", "toecap_type", "waist_type", "closure_placement", "cane_height_type"]
 models = {}
 
 for attr in attributes:
@@ -74,10 +75,8 @@ for attr in attributes:
 
     count = 0
     for img in images:
-        if count > 100:
-            break
         current_df = test_df[test_df["des_filename"] == img]
-        if [current_df.head(1)["des_product_type"], attr] in pairs:
+        if [str(current_df.head(1)["des_product_type"]), attr] in pairs:
             current_prediction = 0
             predictions.append(current_prediction) 
             image_names.append(img)

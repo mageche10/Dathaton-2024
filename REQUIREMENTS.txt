@@ -1,0 +1,11 @@
+Libraries:
+  - pandas
+  - numpy
+  - tensorflow
+  - keras
+  - keras-preprocessing
+  - PIL
+  - os
+  - re
+  - scipy
+  - streamlit

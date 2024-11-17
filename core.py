@@ -51,7 +51,7 @@ for attr in attribute_list:
         attribute_image_dict[attr][this_list1[i]] = this_list2[i]
 
 #list of attributes for which the program will train models
-attribute_list = ["length_type"]
+#attribute_list = ["length_type"]
 
 #create and train model for each attribute
 for attr in attribute_list:

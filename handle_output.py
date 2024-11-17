@@ -65,11 +65,8 @@ def make_submission(name):
 
     return submission_dataframe
 
+ls = ["cane_height_type", "closure_placement", "waist_type", "toecap_type", "sleeve_length_type"]
 
-attributes_set = pd.read_csv('./data/attribute_data.csv')
-attributes_names = attributes_set["attribute_name"].unique()
-
-for attribute in attributes_names:
-    predic = make_submission(attribute)
-
-    predic.to_csv('./predictions/' + attribute + '.csv', index=False)
+for attr in ls:
+    pred = make_submission(attr)
+    pred.to_csv("./predictions/" + attr + ".csv", index = False)
